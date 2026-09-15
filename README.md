@@ -3,8 +3,7 @@
 
 <p align="center">
   <a href="mailto:mayankjoshi.professional@gmail.com"><img src="https://img.shields.io/badge/Email-mayankjoshi.professional%40gmail.com-blue?style=flat&logo=gmail" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/mayank-joshi-0285503b5/"><img src="https://www.linkedin.com/in/mayank-joshi-0285503b5/"></a>
-  <a href="https://www.linkedin.com/in/mayank-joshi-0285503b5/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/mayank-joshi-0285503b5/"><img src="https://img.shields.io/badge/LinkedIn-Mayank Joshi-blue?style=flat&logo=linkedin"></a>
   <img src="https://img.shields.io/badge/Location-India-%23FF5733?style=flat&logo=googlemaps">
 </p>
 
