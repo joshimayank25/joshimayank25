@@ -4,6 +4,7 @@
 <p align="center">
   <a href="mailto:mayankjoshi.professional@gmail.com"><img src="https://img.shields.io/badge/Email-mayankjoshi.professional%40gmail.com-blue?style=flat&logo=gmail" alt="Email"></a>
   <a href="https://www.linkedin.com/in/mayank-joshi-0285503b5/"><img src="https://img.shields.io/badge/LinkedIn-Mayank Joshi-blue?style=flat&logo=linkedin"></a>
+  <a href="tel:+918576973517"><img src="https://img.shields.io/badge/Contact-8576973517-blue?style=flat&logo=phone"></a>
   <img src="https://img.shields.io/badge/Location-India-%23FF5733?style=flat&logo=googlemaps">
 </p>
 
