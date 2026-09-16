@@ -56,12 +56,16 @@ I am a **results-driven Network Engineer** with a solid foundation in **telecom 
 
 ## 🧾 Certifications
 
-- 🟩 **/Cisco Networking Basics/** – Cisco Networking Academy (Apr 2025)
-- 🟩 **Fundamental Algorithms: Design and Analysis** – NPTEL Elite (Apr 2023)
+- 🟩 **Data Analyst** – Hireyy (2026)
+- 🟩 **CCNA – Cisco Certified Network Associate** – Network Bulls (Sep 2025)
+- 🟩 **Cisco Networking Basics** – Cisco Networking Academy (Apr 2025)
+- 🟩 **Google IT Support Specialization** – Coursera (Aug 2023)
+- 🟩 **Google Data Analytics Certificate** – Coursera (July 2023)
+- 🟩 **Fundamental Algorithms: Design and Analysis** – Swayam NPTEL Elite (Apr 2023)
 
 ---
 
-## 📚 Research & Projects
+## 📚 Projects
 
 📄 **Published Paper**  
 > _"A Compact Wideband Monopole Antenna with DGS for WIMAX/WLAN/5G Applications"_  
