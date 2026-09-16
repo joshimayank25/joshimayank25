@@ -39,18 +39,21 @@ I am a **results-driven Network Engineer** with a solid foundation in **telecom 
 
 ---
 
-## ⚙️ Technical Toolbox
+## ⚙️ Technical Skills
 
-| Category            | Tools & Technologies |
-|---------------------|----------------------|
-| **Networking**       | Routing, Switching, VPN, CCNA |
-| **Visualization**    | Tableau, Looker Studio, Grafana |
-| **Telecom Tools**    | NetAct, ENM, Mist, ITSM, Atoll |
-| **Programming**      | SQL, Python (basic), C |
-| **Protocols**        | RRC, NAS, SIP, SCTP, TCP/UDP |
-| **Testing Tools**    | XCAL, QXDM, Wireshark |
-| **Cloud & Infra**    | GCP, SLA Management |
-| **Domains**          | LTE, 5G NR, VoLTE, IMS, Core Interfaces |
+| # Category	              | # Tools & Technologies / Expertise |
+|-----------------------------|------------------------------|
+| **Telecom Technologies & Domains**	| 2G (GSM), 3G (UMTS), 4G (LTE/VoLTE), 5G NR, IMS, Core Network Interfaces |
+| **Telecom Management & OSS Tools**	| NetAct, ENM, MAE (KPI/Access), Metricell, ITSM, Atoll |
+| **Network Operations & Performance**	| KPI Monitoring & Analysis, RF Optimization, Alarm & Fault Management, Troubleshooting |
+| **Incident/Change/Problem Management**	| RCA-Driven Incident Resolution, CRQ Resolution, Change Management, Problem Ticket Management |
+| **Site & Network Configuration**	| Parameter Management, Term-Point Creation/Deletion, Term-Point Block/Unblock, Neighbor Relation Management, ANR Refresh, RET Configuration & Changes, Power Parameter Changes |
+| **Visualization**	| Python, Pandas, NumPy, Matplotlib, Tableau, Looker Studio, Grafana |
+| **Programming & Databases**	| Python, SQL |
+| **Ticketing & ITSM Platforms**	| BMC Remedy, ServiceNow, Jira |
+| **Network Testing & Troubleshooting**	| Wireshark, WinSCP |
+| **Networking Fundamentals**	| Routing, Switching, VPN, CCNA |
+| **Protocols & Signaling**	| RRC, NAS, SIP, SCTP, TCP/UDP |
 
 ---
 
