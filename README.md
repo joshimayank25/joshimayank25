@@ -47,7 +47,7 @@ I am a **results-driven Network Engineer** with a solid foundation in **telecom 
 | **Telecom Management & OSS Tools**	| NetAct, ENM, MAE (KPI/Access), Metricell, ITSM, Atoll |
 | **Network Operations & Performance**	| KPI Monitoring & Analysis, RF Optimization, Alarm & Fault Management, Troubleshooting |
 | **Incident/Change/Problem Management**	| RCA-Driven Incident Resolution, CRQ Resolution, Change Management, Problem Ticket Management |
-| **Site & Network Configuration**	| Parameter Management, Term-Point Creation/Deletion, Term-Point Block/Unblock, Neighbor Relation Management, ANR Refresh, RET Configuration & Changes, Power Parameter Changes |
+| **Site & Network Configuration**	| Parameter Management, Term-Point Creation/Deletion & Block/Unblock, Neighbor Relation Management, ANR Refresh, RET Configuration & Changes, Power Parameter Changes |
 | **Visualization**	| Python, Pandas, NumPy, Matplotlib, Tableau, Looker Studio, Grafana |
 | **Programming & Databases**	| Python, SQL |
 | **Ticketing & ITSM Platforms**	| BMC Remedy, ServiceNow, Jira |
