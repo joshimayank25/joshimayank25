@@ -85,6 +85,7 @@ I am a **results-driven Network Engineer** with a solid foundation in **telecom 
 ### 🏢 **Industrial Training - BSNL (Bharat Sanchar Nigam Limited), Ghaziabad**
 
 - Completed industrial training at BSNL, gaining practical exposure in telecom hardware setup & diagnostics.
+- Learned the fundamentals of 2G GSM, 3G UMTS, and 4G LTE networks, with hands-on understanding of BTS operations, and telecom service delivery.
 
 ---
 
