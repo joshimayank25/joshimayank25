@@ -56,8 +56,8 @@ I am a **results-driven Network Engineer** with a solid foundation in **telecom 
 
 ## 🧾 Certifications
 
-- 🟩 //**Cisco Networking Basics**// – Cisco Networking Academy (Apr 2025)
-- 🟩 //**Fundamental Algorithms: Design and Analysis**// – NPTEL Elite (Apr 2023)
+- 🟩 **/Cisco Networking Basics/** – Cisco Networking Academy (Apr 2025)
+- 🟩 **Fundamental Algorithms: Design and Analysis** – NPTEL Elite (Apr 2023)
 
 ---
 
