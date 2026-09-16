@@ -30,6 +30,15 @@ I am a **results-driven Network Engineer** with a solid foundation in **telecom 
 
 ---
 
+## 🎓 Education
+
+🎓 **B.Tech in Electronics & Communication Engineering**  
+📍 *Birla Institute of Applied Sciences, Bhimtal, Nainital, India*  
+📈 GPA: **71%**
+
+
+---
+
 ## ⚙️ Technical Toolbox
 
 | Category            | Tools & Technologies |
@@ -42,14 +51,6 @@ I am a **results-driven Network Engineer** with a solid foundation in **telecom 
 | **Testing Tools**    | XCAL, QXDM, Wireshark |
 | **Cloud & Infra**    | GCP, SLA Management |
 | **Domains**          | LTE, 5G NR, VoLTE, IMS, Core Interfaces |
-
----
-
-## 🎓 Education
-
-🎓 **B.Tech in Electronics & Communication Engineering**  
-📍 *Birla Institute of Applied Sciences, Bhimtal, Nainital, India*  
-📈 GPA: **71%**
 
 ---
 
