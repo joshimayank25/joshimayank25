@@ -56,8 +56,8 @@ I am a **results-driven Network Engineer** with a solid foundation in **telecom 
 
 ## 🧾 Certifications
 
-- 🟩 **Cloud Computing and Distributed Systems** – NPTEL (Elite)
-- 🟩 **Computer Networks and Internet Protocol** – NPTEL (Elite)
+- 🟩 //**Cisco Networking Basics**// – Cisco Networking Academy (Apr 2025)
+- 🟩 //**Fundamental Algorithms: Design and Analysis**// – NPTEL Elite (Apr 2023)
 
 ---
 
