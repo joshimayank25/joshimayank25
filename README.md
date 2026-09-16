@@ -41,7 +41,7 @@ I am a **results-driven Network Engineer** with a solid foundation in **telecom 
 
 ## ⚙️ Technical Skills
 
-| # Category	              | # Tools & Technologies / Expertise |
+| ## Category	              | ## Tools & Technologies / Expertise |
 |-----------------------------|------------------------------|
 | **Telecom Technologies & Domains**	| 2G (GSM), 3G (UMTS), 4G (LTE/VoLTE), 5G NR, IMS, Core Network Interfaces |
 | **Telecom Management & OSS Tools**	| NetAct, ENM, MAE (KPI/Access), Metricell, ITSM, Atoll |
