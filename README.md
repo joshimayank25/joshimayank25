@@ -60,7 +60,7 @@ I am a **results-driven Network Engineer** with a solid foundation in **telecom 
 ## 🧾 Certifications
 
 - ✅ **Data Analyst** – Hireyy (2026)
-- ✅ **CCNA – Cisco Certified Network Associate** – Network Bulls (Sep 2025)
+- ✅ **CCNA – Cisco Certified Network Associate** – Network Bulls (Sept 2025)
 - ✅ **Cisco Networking Basics** – Cisco Networking Academy (Apr 2025)
 - ✅ **Google IT Support Specialization** – Coursera (Aug 2023)
 - ✅ **Google Data Analytics Certificate** – Coursera (July 2023)
@@ -82,8 +82,7 @@ I am a **results-driven Network Engineer** with a solid foundation in **telecom 
 
 ## 🛠️ Internships & Training
 
-- 🏢 **ITI Limited, Mankapur** – Worked on telecom hardware setup & diagnostics.
-- ⚡ **UP Power Corporation Ltd.** – Gained experience in infrastructure maintenance & network operations.
+- 🏢 **Industrial Training - BSNL (Bharat Sanchar Nigam Limited), Ghaziabad** – Completed industrial training at BSNL, gaining practical exposure in telecom hardware setup & diagnostics.
 
 ---
 
