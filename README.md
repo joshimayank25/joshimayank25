@@ -70,9 +70,7 @@ I am a **results-driven Network Engineer** with a solid foundation in **telecom 
 
 ## 📚 Projects
 
-📄 **Published Paper**  
-> _"A Compact Wideband Monopole Antenna with DGS for WIMAX/WLAN/5G Applications"_  
-> Published in: *Electronics Engineering Journal* – Vol. 13, Issue 2, 2023
+####📄 **Li-Fi Communication Project |** _Arduino, C/C++_ – Jun 2023
 
 📍 **Project Highlights**  
 - Designed & optimized antennas for wideband applications.
@@ -82,7 +80,7 @@ I am a **results-driven Network Engineer** with a solid foundation in **telecom 
 
 ## 🛠️ Internships & Training
 
-#### 🏢 **Industrial Training - BSNL (Bharat Sanchar Nigam Limited)** | _Ghaziabad, Uttar Pradesh, India_
+#### 🏢 **Industrial Training Internship - BSNL (Bharat Sanchar Nigam Limited)** | _Ghaziabad, Uttar Pradesh, India_
 
 - Completed industrial training at BSNL, gaining practical exposure in telecom hardware setup & diagnostics.
 - Learned the fundamentals of 2G GSM, 3G UMTS, and 4G LTE networks, with hands-on understanding of BTS operations, and telecom service delivery.
