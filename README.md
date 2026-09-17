@@ -25,13 +25,23 @@ Results-driven **Network & RF Engineer** with hands-on expertise managing multi-
 ## 💼 Professional Experience
 
 ### 🛰️ **Network Engineer | Ericsson Global India Pvt. Ltd.**
-*🗓️ Nov 2023 – June 2025*
+*🗓️ Nov 2023 – Present*
 
-- **Performance & KPI Governance:** Continuously monitored and optimized core cellular KPIs (including LTE Accessibility, E-RAB Drop Rates, VoLTE CSSR/DCR, PRB Utilization, DL/UL Throughput, RSRP/RSRQ/SINR, and HOSR) to safeguard network quality and user experience.
-- **Fault Management & Triaging:** Executed 24×7 multi-vendor alarm monitoring, triaging critical/major/minor incidents using **Ericsson ENM**, **Nokia NetAct**, and ITSM systems (**ServiceNow**, **BMC Remedy**, **Jira**).
-- **Network Configuration & Optimization:** Deployed targeted optimization tweaks including RET tilt changes, ANR refreshes, neighbor relation updates, and parameter shifts to elevate coverage and capacity.
-- **Workflow Automation & Reporting:** Automated heavy engineering workflows through **SQL** and created dynamic, executive-ready performance dashboards using **Tableau** and **Looker Studio** for stakeholders.
-- **Leadership & Collaboration:** Acted as a Subject Matter Expert (SPOC) for network escalations, mentored Graduate Engineer Trainees, and synchronized cross-functional initiatives alongside NPI, NPO, and Field Operations (FO) groups.
+- Continuously monitored and optimized core cellular KPIs (including LTE Accessibility, E-RAB Drop Rates, VoLTE CSSR/DCR, PRB Utilization, DL/UL Throughput, RSRP/RSRQ/SINR, and HOSR) to safeguard network quality and user experience.
+- Executed 24×7 multi-vendor alarm monitoring, triaging critical/major/minor incidents using **Ericsson ENM**, **Nokia NetAct**, and ITSM systems (**ServiceNow**, **BMC Remedy**, **Jira**).
+- Deployed targeted optimization tweaks including RET tilt changes, Term-points, neighbor relation updates, ANR refreshes, and parameter changes to elevate coverage and capacity.
+- Automated heavy engineering workflows through **SQL** and created dynamic, executive-ready performance dashboards using **Tableau** and **Looker Studio** for stakeholders.
+- Acted as a Single Point of contact (SPOC) for network escalations, mentored Graduate Engineer Trainees, and synchronized cross-functional initiatives alongside NPI, NPO, and Field Operations (FO) groups.
+
+---
+
+## 🏢 Internships & Training
+
+### 🏢 **Industrial Training Internship | BSNL (Bharat Sanchar Nigam Limited)**
+*🗓️ July 2022 – Aug 2022*
+
+- Completed industrial training at BSNL, gaining practical exposure in telecom hardware setup & diagnostics.
+- Learned the fundamentals of 2G GSM, 3G UMTS, and 4G LTE networks, with hands-on understanding of BTS operations, and telecom service delivery.
 
 ---
 
@@ -67,13 +77,22 @@ Results-driven **Network & RF Engineer** with hands-on expertise managing multi-
 
 ---
 
-## 🏢 Internships & Education
+## 🎓 Education
 
-- 🛰️ **Industrial Training Internship (BSNL)** | *Ghaziabad, UP* — Gained foundational hands-on exposure to telecom hardware setup, BTS diagnostics, and 2G/3G/4G service architecture.
-- 🎓 **B.Tech in Electronics & Communication Engineering** | *Birla Institute of Applied Sciences, Nainital (71%)*
-- 📜 **CCNA – Cisco Certified Network Associate** | *Network Bulls (2025)*
-- 📜 **Data Analyst Professional Certification** | *Hireyy (2026)*
-- 📜 **Google Data Analytics & IT Support Specializations** | *Coursera (2023)*
+🎓 **B.Tech in Electronics & Communication Engineering**  
+📍 *Birla Institute of Applied Sciences, Bhimtal, Nainital, India*  
+📈 GPA: **71%**
+
+---
+
+## 🧾 Certifications
+
+- 📜 **Data Analyst** | *Hireyy (2026)*
+- 📜 **CCNA – Cisco Certified Network Associate** | *Network Bulls (Sept 2025)*
+- 📜 **Cisco Networking Basics** | *Cisco Networking Academy (Apr 2025)*
+- 📜 **Google IT Support Specialization** | *Coursera (Aug 2023)*
+- 📜 **Google Data Analytics Certificate** | *Coursera (July 2023)*
+- 📜 **Fundamental Algorithms: Design and Analysis** | *Swayam NPTEL Elite (Apr 2023)*
 
 ---
 
