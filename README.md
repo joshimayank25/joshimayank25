@@ -70,6 +70,25 @@ I am a **results-driven Network Engineer** with a solid foundation in **telecom 
 
 ## 📚 Projects
 
+#### 📄 **Diwali Sales Data Analysis |** _Jan 2025_
+> **Linear Regression, Python (Pandas, NumPy, Matplotlib), Advanced Excel**
+
+📍 **Project Summary**
+- Analyzed **11,251 Diwali sales records** using Python to identify customer demographics, purchasing behavior, and sales patterns.
+- Cleaned and prepared the dataset by handling missing values, removing irrelevant columns, and converting the **Amount** field to the appropriate numeric format.
+- Performed exploratory data analysis and created **countplots and bar plots** to identify trends across states, customer segments, product categories, and occupations.
+- Identified key purchasing patterns, including higher purchasing activity among **married women aged 26–35** and customers from **Uttar Pradesh and Maharashtra**.
+- Observed notable demand across **Food, Clothing,** and **Electronics** categories and used these insights to suggest targeted marketing and inventory strategies.
+
+#### 📄 **Netflix Movie Data Analysis |** _Nov 2024_
+> **Linear Regression, Python (Pandas, NumPy, Matplotlib), Advanced Excel**
+
+📍 **Project Summary**
+- Analyzed **9,000+ Netflix movie records** to identify trends in **genres, popularity, ratings,** and **release years**.
+- Cleaned and transformed data using **Pandas**, including datetime conversion, year extraction, and removal of irrelevant columns.
+- Created visualizations with **Matplotlib** and **Seaborn** to examine genre distribution and yearly release trends.
+- Found **Drama to be the most frequent genre (~14%)** and **2020 to be a peak release year**; identified _Spider-Man: No Way Home_ as the most popular title based on the dataset's popularity metric.
+
 #### 📄 **Li-Fi Communication Project |** _Jun 2023_
 > **Arduino, C/C++**
 
