@@ -70,7 +70,7 @@ I am a **results-driven Network Engineer** with a solid foundation in **telecom 
 
 ## 📚 Projects
 
-####📄 **Li-Fi Communication Project |** _Jun 2023_
+#### 📄 **Li-Fi Communication Project |** _Jun 2023_
 > **Arduino, C/C++**
 
 📍 **Project Summary**  
