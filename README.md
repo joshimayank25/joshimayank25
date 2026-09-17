@@ -56,12 +56,55 @@ I am a **results-driven Network Engineer** with a solid foundation in **telecom 
 
 <div align="center">
 
-| Project & Description | Tech Stack & Highlights |
-| :--- | :--- |
-| **📊 Diwali Sales Data Analysis**<br>Analyzed 11,251+ transactions to uncover customer demographics and spending habits. | <code>Python</code> <code>Pandas</code> <code>Matplotlib</code><br>🎯 Identified core buyers: Married women (26–35) across UP & Maharashtra. |
-| **🎬 Netflix Movie Data Analysis**<br>Processed 9,000+ titles to map global streaming trends, popular genres, and peak years. | <code>Python</code> <code>Seaborn</code> <code>Data Cleaning</code><br>📈 Found Drama leading (~14%) and 2020 as peak release window. |
-| **💡 Li-Fi Communication Model**<br>Built an optical wireless transmission prototype sending text/images over visible light. | <code>Arduino</code> <code>C/C++</code> <code>Hardware Prototyping</code><br>⚡ 100cm transmission range with ~0.15s low latency. |
-| **💵 Salary Prediction Web App**<br>Trained machine learning models to estimate candidate compensation based on career metrics. | <code>Scikit-Learn</code> <code>Random Forest</code> <code>Streamlit</code><br>📊 Interactive web dashboard for real-time predictions. |
+| Project & Description | Project Summary |
+
+#### 📄 **Diwali Sales Data Analysis |** _Jan 2025_
+> **Linear Regression, Python (Pandas, NumPy, Matplotlib), Advanced Excel**
+
+📍 **Project Summary**
+- Analyzed **11,251 Diwali sales records** using Python to identify customer demographics, purchasing behavior, and sales patterns.
+- Cleaned and prepared the dataset by handling missing values, removing irrelevant columns, and converting the **Amount** field to the appropriate numeric format.
+- Performed exploratory data analysis and created **countplots and bar plots** to identify trends across states, customer segments, product categories, and occupations.
+- Identified key purchasing patterns, including higher purchasing activity among **married women aged 26–35** and customers from **Uttar Pradesh and Maharashtra**.
+- Observed notable demand across **Food, Clothing,** and **Electronics** categories and used these insights to suggest targeted marketing and inventory strategies.
+
+#### 📄 **Netflix Movie Data Analysis |** _Nov 2024_
+> **Linear Regression, Python (Pandas, NumPy, Matplotlib), Advanced Excel**
+
+📍 **Project Summary**
+- Analyzed **9,000+ Netflix movie records** to identify trends in **genres, popularity, ratings,** and **release years**.
+- Cleaned and transformed data using **Pandas**, including datetime conversion, year extraction, and removal of irrelevant columns.
+- Created visualizations with **Matplotlib** and **Seaborn** to examine genre distribution and yearly release trends.
+- Found **Drama to be the most frequent genre (~14%)** and **2020 to be a peak release year**; identified _Spider-Man: No Way Home_ as the most popular title based on the dataset's popularity metric.
+
+#### 📄 **Li-Fi Communication Project |** _Jun 2023_
+> **Arduino, C/C++**
+
+📍 **Project Summary**
+- Collaboratively developed a **Li-Fi-based communication model** for transmitting text and images using visible light communication.
+- Designed and implemented the prototype using **Arduino Uno** and **LED bulbs** for LED-based data transmission and reception.
+- Programmed the Arduino to control data encoding, transmission, and communication between the transmitter and receiver.
+- Tested the system for reliable data transmission over a **100 cm distance**, achieving approximately **0.15** seconds of measured latency.
+
+#### 📄 **RBI Data Analysis |** _Sept 2022_
+> **Python, Streamlit, Matplotlib, Scikit-learn, Seaborn**
+
+📍 **Project Summary**
+- Analyzed RBI-related datasets using **Python** to identify trends, patterns, and insights from financial and economic data.
+- Performed data preprocessing, exploratory data analysis, and visualization using **Pandas, Matplotlib, and Seaborn**.
+- Applied **Scikit-learn** machine learning techniques to analyze the dataset and generate data-driven insights.
+- Developed an interactive **Streamlit** dashboard to present analysis and visualizations in a user-friendly format.
+- Collaborated with team members to organize the analysis, interpret findings, and present project outcomes effectively.
+
+#### 📄 **Salary Prediction Web Application |** _Apr 2022_
+> **Random Forest & Linear Regression, Python (Pandas, NumPy, Matplotlib)**
+
+📍 **Project Summary**  
+- Developed a Python-based web application to predict salaries based on job-related factors and candidate qualifications.
+- Applied **Linear Regression** and **Random Forest algorithms** to build and compare salary prediction models.
+- Performed data preprocessing, exploratory data analysis, and feature analysis to prepare the dataset for model training.
+- Used **Seaborn** for data visualization to identify trends and relationships between job attributes and salary.
+- Designed an intuitive web interface to allow users to enter relevant details and obtain salary predictions.
 
 </div>
 
