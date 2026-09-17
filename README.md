@@ -1,103 +1,103 @@
-<div align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=28&pause=1000&color=0E8C82&center=true&vCenter=true&width=600&lines=Mayank+Joshi;Network+%26+RF+Operations+Engineer;Multi-Vendor+2G%2F3G%2F4G%2F5G+RAN;KPI+%7C+RCA+%7C+Fault+Management" alt="Typing SVG" /> </a> <p> Keeping multi-vendor <b>3G / 4G / 5G</b> RAN estates across the UK healthy, diagnosed, and reporting the right numbers — for <b>Vodafone UK, EE, and 3UK</b>. </p>
-
-<a href="tel:+918576973517"><img src="https://img.shields.io/badge/Call-8576973517-0E8C82?style=for-the-badge&logo=phone&logoColor=white" /></a> <a href="mailto:joshimayank0925@gmail.com"><img src="https://img.shields.io/badge/Email-joshimayank0925%40gmail.com-0E8C82?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://www.linkedin.com/in/mayank-joshi-0285503b5/"><img src="https://img.shields.io/badge/LinkedIn-Mayank%20Joshi-0E8C82?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-<img src="https://komarev.com/ghpvc/?username=mayank-joshi-network&label=Profile%20Views&color=0E8C82&style=flat" alt="profile views" /> &nbsp; <img src="https://img.shields.io/badge/status-open%20to%20work-4FD1C5?style=flat-square" /> </div> <br>
-📡 Signal Check
-text
-> whoami
-Network & RF Operations Engineer, ~2-3 yrs experience
-Multi-vendor 2G/3G/4G/5G RAN monitoring — Ericsson Global India
-
-> current_focus
-KPI analysis · RCA-driven incident resolution · RF optimization
-Automation with Python/SQL · dashboarding in Tableau & Looker Studio
-
-> philosophy
-"Turning network complexities into simplified, data-driven solutions."
-<br>
-🛰️ Experience
-<details open> <summary><b>Network Engineer — Ericsson Global India Pvt. Ltd.</b> <code>Nov 2023 – Jun 2025</code></summary> <br>
-
-Supporting multi-vendor 2G/3G/4G/5G networks for Vodafone UK, EE, and 3UK.
-
-📊 Ran KPI analysis, RCA, and incident resolution to hold SLA compliance
-📶 Designed RF solutions and re-balanced traffic flows across multi-vendor networks
-🤖 Automated recurring reporting with SQL; built live dashboards in Tableau and Looker Studio
-🧑‍🏫 Trained Graduate Engineer Trainees; coordinated fault resolution across NPI, NPO, and Field Ops
-</details> <details> <summary><b>Industrial Training Internship — BSNL</b> <code>Ghaziabad, Uttar Pradesh</code></summary> <br>
-Hands-on exposure to telecom hardware setup and diagnostics
-Fundamentals of 2G GSM, 3G UMTS, and 4G LTE, with BTS operations and service delivery
-</details> <br>
-⚙️ Tech Stack
 <div align="center">
 
-Telecom & RAN
+# 👋 Hi, I'm Mayank Joshi! 
 
-Show Image Show Image Show Image Show Image Show Image Show Image
+### 📡 Network Engineer | Telecom | RF Engineer | KPI Analyst
 
-OSS / NMS & Monitoring
+<p align="center">
+  <a href="tel:+918576973517"><img src="https://img.shields.io/badge/Contact-%2B91%208576973517-blue?style=for-the-badge&logo=phone&logoColor=white"></a>
+  <a href="mailto:joshimayank0925@gmail.com"><img src="https://img.shields.io/badge/Email-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/mayank-joshi-0285503b5/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
 
-Show Image Show Image Show Image Show Image Show Image Show Image
+</div>
 
-Data & Programming
+---
 
-Show Image Show Image Show Image Show Image Show Image Show Image
+## 🚀 About Me
 
-Operations & Ticketing
+I am a **results-driven Network Engineer** with a solid foundation in **telecom systems**, **RF optimization**, **data analysis**, and **automation**. With hands-on professional experience scaling multi-vendor **2G/3G/4G/5G technologies**, I bridge the gap between heavy operational telecom infrastructure and modern data-driven software solutions.
 
-Show Image Show Image Show Image Show Image
+> 💡 _"Turning network complexities into simplified, high-performance, data-driven solutions!"_
 
-Networking Fundamentals
+---
 
-Show Image Show Image Show Image Show Image
+## 💼 Professional Experience
 
-</div> <br>
-📚 Projects
-<details> <summary><b>Diwali Sales Data Analysis</b> · Jan 2025 — <i>Python (Pandas, NumPy, Matplotlib), Advanced Excel</i></summary> <br>
-Analyzed 11,251 Diwali sales records to surface customer demographics, purchasing behavior, and sales patterns
-Cleaned the dataset — handled missing values, dropped irrelevant columns, normalized the Amount field
-Built countplots and bar charts to compare trends across states, segments, categories, and occupations
-Found higher purchasing activity among married women aged 26–35 and buyers from Uttar Pradesh and Maharashtra, with strong demand in Food, Clothing, and Electronics — used to suggest targeted marketing and inventory moves
-</details> <details> <summary><b>Netflix Movie Data Analysis</b> · Nov 2024 — <i>Python (Pandas, NumPy, Matplotlib), Advanced Excel</i></summary> <br>
-Analyzed 9,000+ Netflix titles to trace trends in genre, popularity, ratings, and release year
-Cleaned and transformed data with Pandas — datetime conversion, year extraction, column pruning
-Visualized genre distribution and yearly release trends with Matplotlib and Seaborn
-Found Drama the most frequent genre (~14%), 2020 a peak release year, and Spider-Man: No Way Home the most popular title by the dataset's popularity metric
-</details> <details> <summary><b>Li-Fi Communication Project</b> · Jun 2023 — <i>Arduino, C/C++</i></summary> <br>
-Co-built a Li-Fi communication model to send text and images over visible light
-Designed the prototype on Arduino Uno with LED bulbs for encoding and transmission
-Programmed encoding, transmission, and receive logic between transmitter and receiver
-Tested over a 100 cm link, measuring roughly 0.15 seconds of latency
-</details> <details> <summary><b>RBI Data Analysis</b> · Sept 2022 — <i>Python, Streamlit, Matplotlib, Scikit-learn, Seaborn</i></summary> <br>
-Explored RBI-related financial and economic datasets for trends and patterns
-Preprocessed and visualized data with Pandas, Matplotlib, and Seaborn
-Applied Scikit-learn models to generate data-driven insights
-Shipped an interactive Streamlit dashboard to present findings, built and presented with the team
-</details> <details> <summary><b>Salary Prediction Web Application</b> · Apr 2022 — <i>Random Forest & Linear Regression, Python</i></summary> <br>
-Built a web app that predicts salary from job factors and candidate qualifications
-Trained and compared Linear Regression and Random Forest models
-Ran preprocessing, EDA, and feature analysis to prepare the training data
-Used Seaborn to surface relationships between job attributes and salary, then wired the model into a simple input-driven interface
-</details> <br>
-🧾 Certifications
-Certification	Issuer	Date
-Data Analyst	Hireyy	2026
-CCNA – Cisco Certified Network Associate	Network Bulls	Sept 2025
-Cisco Networking Basics	Cisco Networking Academy	Apr 2025
-Google IT Support Specialization	Coursera	Aug 2023
-Google Data Analytics Certificate	Coursera	Jul 2023
-Fundamental Algorithms: Design and Analysis	NPTEL Elite	Apr 2023
-<br>
-🎓 Education
+### 🛰️ **Network Engineer | Ericsson Global India Pvt. Ltd.**
+*🗓️ Nov 2023 – June 2025*
 
-B.Tech, Electronics & Communication Engineering Birla Institute of Applied Sciences, Bhimtal, Nainital, India — GPA 71%
+- 📊 **Performance Analytics & SLA:** Performed complex **KPI analysis**, **RCA (Root Cause Analysis)**, and rapid incident resolution to maintain strict SLA compliance.
+- 🚀 **RF & Multi-Vendor Optimization:** Designed RF solutions and engineered traffic flows for multi-vendor (**2G/3G/4G/5G**) cellular networks.
+- 🤖 **Workflow Automation:** Automated manual engineering workflows using **SQL** and designed dynamic, real-time **interactive dashboards** using **Tableau** and **Looker Studio**.
+- 🤝 **Leadership & Cross-functional Sync:** Trained Graduate Engineer Trainees and successfully coordinated cross-functional execution alongside NPI, NPO, and FO teams.
 
-<br> <div align="center">
-📫 Let's Connect
+---
 
-<a href="mailto:joshimayank0925@gmail.com"><img src="https://img.shields.io/badge/Email-joshimayank0925%40gmail.com-0E8C82?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="mailto:mayankjoshi.professional@gmail.com"><img src="https://img.shields.io/badge/Email-mayankjoshi.professional%40gmail.com-0E8C82?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://www.linkedin.com/in/mayank-joshi-0285503b5/"><img src="https://img.shields.io/badge/LinkedIn-Mayank%20Joshi-0E8C82?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+## 🛠️ Technical Arsenal
 
-<i>Stay curious, stay connected. Building smarter, faster, and more reliable networks.</i>
+<div align="center">
+
+| Category | Core Tools & Technologies |
+| :--- | :--- |
+| **Telecom & Domains** | <code>2G GSM</code> • <code>3G UMTS</code> • <code>4G LTE/VoLTE</code> • <code>5G NR</code> • <code>IMS</code> • <code>Core Interfaces</code> |
+| **OSS & Management** | <code>NetAct</code> • <code>ENM</code> • <code>MAE</code> • <code>Metricell</code> • <code>Atoll</code> • <code>ITSM</code> |
+| **Operations & Config** | <code>KPI Monitoring</code> • <code>RF Optimization</code> • <code>RCA/CRQ</code> • <code>ANR Refresh</code> • <code>RET Config</code> |
+| **Data & Programming** | <code>Python</code> • <code>SQL</code> • <code>Pandas</code> • <code>NumPy</code> • <code>Matplotlib</code> • <code>Seaborn</code> • <code>Streamlit</code> |
+| **ITSM & Testing** | <code>ServiceNow</code> • <code>Jira</code> • <code>BMC Remedy</code> • <code>Wireshark</code> • <code>WinSCP</code> |
+| **Networking & Protocols** | <code>Routing & Switching</code> • <code>CCNA</code> • <code>RRC/NAS</code> • <code>SIP</code> • <code>TCP/UDP</code> |
+
+</div>
+
+---
+
+## ⚡ Featured Projects
+
+<div align="center">
+
+| Project & Description | Tech Stack & Highlights |
+| :--- | :--- |
+| **📊 Diwali Sales Data Analysis**<br>Analyzed 11,251+ transactions to uncover customer demographics and spending habits. | <code>Python</code> <code>Pandas</code> <code>Matplotlib</code><br>🎯 Identified core buyers: Married women (26–35) across UP & Maharashtra. |
+| **🎬 Netflix Movie Data Analysis**<br>Processed 9,000+ titles to map global streaming trends, popular genres, and peak years. | <code>Python</code> <code>Seaborn</code> <code>Data Cleaning</code><br>📈 Found Drama leading (~14%) and 2020 as peak release window. |
+| **💡 Li-Fi Communication Model**<br>Built an optical wireless transmission prototype sending text/images over visible light. | <code>Arduino</code> <code>C/C++</code> <code>Hardware Prototyping</code><br>⚡ 100cm transmission range with ~0.15s low latency. |
+| **💵 Salary Prediction Web App**<br>Trained machine learning models to estimate candidate compensation based on career metrics. | <code>Scikit-Learn</code> <code>Random Forest</code> <code>Streamlit</code><br>📊 Interactive web dashboard for real-time predictions. |
+
+</div>
+
+---
+
+## 🎓 Education & Certifications
+
+- 🎓 **B.Tech in Electronics & Communication Engineering** | *Birla Institute of Applied Sciences, Nainital (71%)*
+- 📜 **CCNA – Cisco Certified Network Associate** | *Network Bulls (2025)*
+- 📜 **Data Analyst Certification** | *Hireyy (2026)*
+- 📜 **Google Data Analytics & IT Support Professional Certificates** | *Coursera (2023)*
+
+---
+
+## 📈 GitHub Stats & Activity
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=joshimayank0925&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1e1e2e" alt="Mayank's GitHub Stats" />
+  
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=joshimayank0925&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  </p>
+
+</div>
+
+---
+
+<div align="center">
+
+### 📫 Let's Build the Future of Connectivity Together!
+
+📱 **Phone:** +91 85769 73517 &nbsp;&bull;&nbsp; 📧 **Email:** [joshimayank0925@gmail.com](mailto:joshimayank0925@gmail.com)
+
+  <br>
+  
+  <b>“Stay curious, stay connected.”</b><br>
+  <em>🔗 Building smarter, faster, and more reliable networks!</em>
 
 </div>
