@@ -6,7 +6,8 @@
 
 <p align="center">
   <a href="tel:+918576973517"><img src="https://img.shields.io/badge/Contact-%2B91%208576973517-blue?style=for-the-badge&logo=phone&logoColor=white"></a>
-  <a href="mailto:joshimayank0925@gmail.com"><img src="https://img.shields.io/badge/Email-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:mayankjoshi.professional@gmail.com"><img src="https://img.shields.io/badge/Email-mayankjoshi.professional%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:joshimayank0925@gmail.com"><img src="https://img.shields.io/badge/Email-joshimayank0925%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/mayank-joshi-0285503b5/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
