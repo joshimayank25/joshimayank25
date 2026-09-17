@@ -75,8 +75,18 @@ I am a **results-driven Network Engineer** with a solid foundation in **telecom 
 
 📍 **Project Summary**  
 - Collaboratively developed a Li-Fi-based communication model for seamless transmission of text and images using visible light communication.
-- Designed and implemented a Li-Fi communication system using Arduino Uno, achieving 2 Gbps data transfer over 100 cm with 0.073s latency.
+- Designed and implemented a Li-Fi communication system using Arduino Uno and LED bulbs, achieving 2 Gbps data transfer over 100 cm with 0.073s latency.
 - Programmed Arduino for efficient data transmission using LED-based hardware and communication protocols.
+
+#### 📄 **Salary Prediction Web Application |** _Apr 2022_
+> **Random Forest & Linear Regression, Python (Pandas, NumPy, Matplotlib)**
+
+📍 **Project Summary**  
+- Developed a Python-based web application to predict salaries based on job-related factors and candidate qualifications.
+- Applied Linear Regression and Random Forest algorithms to build and compare salary prediction models.
+- Performed data preprocessing, exploratory data analysis, and feature analysis to prepare the dataset for model training.
+- Used Seaborn for data visualization to identify trends and relationships between job attributes and salary.
+- Designed an intuitive web interface to allow users to enter relevant details and obtain salary predictions.
 
 ---
 
