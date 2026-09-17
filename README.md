@@ -94,9 +94,9 @@ I am a **results-driven Network Engineer** with a solid foundation in **telecom 
 
 📍 **Project Summary**  
 - Developed a Python-based web application to predict salaries based on job-related factors and candidate qualifications.
-- Applied Linear Regression and Random Forest algorithms to build and compare salary prediction models.
+- Applied **Linear Regression** and **Random Forest algorithms** to build and compare salary prediction models.
 - Performed data preprocessing, exploratory data analysis, and feature analysis to prepare the dataset for model training.
-- Used Seaborn for data visualization to identify trends and relationships between job attributes and salary.
+- Used **Seaborn** for data visualization to identify trends and relationships between job attributes and salary.
 - Designed an intuitive web interface to allow users to enter relevant details and obtain salary predictions.
 
 ---
