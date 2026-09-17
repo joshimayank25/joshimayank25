@@ -73,10 +73,11 @@ I am a **results-driven Network Engineer** with a solid foundation in **telecom 
 #### 📄 **Li-Fi Communication Project |** _Jun 2023_
 > **Arduino, C/C++**
 
-📍 **Project Summary**  
-- Collaboratively developed a Li-Fi-based communication model for seamless transmission of text and images using visible light communication.
-- Designed and implemented a Li-Fi communication system using Arduino Uno and LED bulbs, achieving 2 Gbps data transfer over 100 cm with 0.073s latency.
-- Programmed Arduino for efficient data transmission using LED-based hardware and communication protocols.
+📍 **Project Summary**
+- Collaboratively developed a Li-Fi-based communication model for transmitting text and images using visible light communication.
+- Designed and implemented the prototype using Arduino Uno and LED bulbs for LED-based data transmission and reception.
+- Programmed the Arduino to control data encoding, transmission, and communication between the transmitter and receiver.
+- Tested the system for reliable data transmission over a 100 cm distance, achieving approximately 0.073 seconds of measured latency.
 
 #### 📄 **Salary Prediction Web Application |** _Apr 2022_
 > **Random Forest & Linear Regression, Python (Pandas, NumPy, Matplotlib)**
