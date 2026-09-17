@@ -1,147 +1,374 @@
-<h1 align="center">✨ Mayank Joshi ✨</h1>
-<h3 align="center">Network Engineer | Telecom | RF Engineer | KPI Analyst</h3>
+<div align="center">
+👋 Hey, I'm Mayank Joshi
+🚀 Network Engineer · Telecom · RF · Data Analytics · Automation
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Network+Engineer+%7C+Telecom+Professional;RF+%26+KPI+Analytics;2G+%7C+3G+%7C+4G+%7C+5G+%7C+IMS;Python+%7C+SQL+%7C+Tableau;Turning+Network+Data+into+Actionable+Insights" alt="Typing SVG" /> <p> <a href="mailto:joshimayank0925@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact%20Me-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/mayank-joshi-0285503b5/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p> <img src="https://komarev.com/ghpvc/?username=Mayank-Joshi&style=flat-square&color=00BFFF&label=Profile+Views" /> </div>
+🧭 Navigation
 
-<p align="center">
-  <a href="tel:+918576973517"><img src="https://img.shields.io/badge/Contact-8576973517-blue?style=flat&logo=phone"></a>
-  <a href="mailto:joshimayank0925@gmail.com"><img src="https://img.shields.io/badge/Email-joshimayank0925%40gmail.com-blue?style=flat&logo=gmail" alt="Email"></a>
-  <a href="mailto:mayankjoshi.professional@gmail.com"><img src="https://img.shields.io/badge/Email-mayankjoshi.professional%40gmail.com-blue?style=flat&logo=gmail" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/mayank-joshi-0285503b5/"><img src="https://img.shields.io/badge/LinkedIn-Mayank Joshi-blue?style=flat&logo=linkedin"></a>
-</p>
+👨‍💻 About ·
+💼 Experience ·
+🛠️ Tech Stack ·
+📊 Projects ·
+🎓 Education ·
+📜 Certifications ·
+📡 Telecom Expertise ·
+📫 Contact
 
----
+👨‍💻 About Me
 
-## 🔍 About Me
+I'm a Network Engineer with professional experience spanning telecom networks, RF optimization, KPI analysis, incident management, troubleshooting, and automation.
 
-I am a **results-driven Network Engineer** with a solid foundation in **telecom systems**, **RF optimization**, **data analysis**, and **automation**. With hands-on experience in **2G/3G/4G/5G technologies**, I aim to bridge the gap between operational efficiency and technological innovation in telecom.
+My experience covers 2G, 3G, 4G, 5G NR and IMS, combined with a growing focus on Python, SQL, data visualization, and operational automation.
 
-> 💡 _"Turning network complexities into simplified, data-driven solutions!"_
+I enjoy working at the intersection of:
 
----
-
-## 💼 Experience
-
-### 🛰️ **Network Engineer**  
-**Ericsson Global India Pvt. Ltd.** | _Nov 2023 – June 2025_
-
-- 📊 Performed **KPI analysis**, **RCA**, and **incident resolution** to ensure SLA compliance.
-- 🚀 Designed RF solutions and optimized traffic flows for multi-vendor (2G/3G/4G/5G) networks.
-- 🤖 Automated workflows using **SQL** and built **interactive dashboards** using **Tableau** and **Looker Studio**.
-- 🤝 Trained Graduate Engineer Trainees and collaborated across departments like NPI, NPO, and FO.
-
----
-
-## 🎓 Education
-
-🎓 **B.Tech in Electronics & Communication Engineering**  
-📍 *Birla Institute of Applied Sciences, Bhimtal, Nainital, India*  
-📈 GPA: **71%**
+📡 Telecom Networks
+       ↓
+📊 Network KPIs & Data
+       ↓
+🔎 Root Cause Analysis
+       ↓
+🤖 Automation
+       ↓
+💡 Actionable Insights
 
 
----
+💡 My goal: Turn complex network problems into simple, measurable and data-driven solutions.
 
-## ⚙️ Technical Skills
+💼 Experience
+🛰️ Network Engineer
 
-| **Category**	              | **Tools & Technologies/Expertise** |
-|-----------------------------|------------------------------|
-| **Telecom Technologies & Domains**	| 2G (GSM), 3G (UMTS), 4G (LTE/VoLTE), 5G NR, IMS, Core Network Interfaces |
-| **Telecom Management & OSS Tools**	| NetAct, ENM, MAE (KPI/Access), Metricell, ITSM, Atoll |
-| **Network Operations & Performance**	| KPI Monitoring & Analysis, RF Optimization, Alarm & Fault Management, Troubleshooting |
-| **Incident/Change/Problem Management**	| RCA-Driven Incident Resolution, CRQ Resolution, Change Management, Problem Ticket Management |
-| **Site & Network Configuration**	| Parameter Management, Term-Point Creation/Deletion & Block/Unblock, Neighbor Relation Management, ANR Refresh, RET Configuration & Changes, Power Parameter Changes |
-| **Visualization**	| Python, Pandas, NumPy, Matplotlib, Tableau, Looker Studio, Grafana |
-| **Programming & Databases**	| Python, SQL |
-| **Ticketing & ITSM Platforms**	| BMC Remedy, ServiceNow, Jira |
-| **Network Testing & Troubleshooting**	| Wireshark, WinSCP |
-| **Networking Fundamentals**	| Routing, Switching, VPN, CCNA |
-| **Protocols & Signaling**	| RRC, NAS, SIP, SCTP, TCP/UDP |
+Ericsson Global India Pvt. Ltd.
+Nov 2023 — Jun 2025
 
----
+<details> <summary><b>🔍 Explore my responsibilities</b></summary> <br>
 
-## 🧾 Certifications
+📊 Performed KPI analysis, RCA and incident resolution to support SLA compliance.
 
-- ✅ **Data Analyst** – Hireyy (2026)
-- ✅ **CCNA – Cisco Certified Network Associate** – Network Bulls (Sept 2025)
-- ✅ **Cisco Networking Basics** – Cisco Networking Academy (Apr 2025)
-- ✅ **Google IT Support Specialization** – Coursera (Aug 2023)
-- ✅ **Google Data Analytics Certificate** – Coursera (July 2023)
-- ✅ **Fundamental Algorithms: Design and Analysis** – Swayam NPTEL Elite (Apr 2023)
+📡 Worked across 2G / 3G / 4G / 5G multi-vendor network environments.
 
----
+🚀 Supported RF optimization and traffic-flow improvements.
 
-## 📚 Projects
+🤖 Automated operational workflows using SQL and Python-based analysis.
 
-#### 📄 **Diwali Sales Data Analysis |** _Jan 2025_
-> **Linear Regression, Python (Pandas, NumPy, Matplotlib), Advanced Excel**
+📈 Built interactive dashboards using Tableau and Looker Studio.
 
-📍 **Project Summary**
-- Analyzed **11,251 Diwali sales records** using Python to identify customer demographics, purchasing behavior, and sales patterns.
-- Cleaned and prepared the dataset by handling missing values, removing irrelevant columns, and converting the **Amount** field to the appropriate numeric format.
-- Performed exploratory data analysis and created **countplots and bar plots** to identify trends across states, customer segments, product categories, and occupations.
-- Identified key purchasing patterns, including higher purchasing activity among **married women aged 26–35** and customers from **Uttar Pradesh and Maharashtra**.
-- Observed notable demand across **Food, Clothing,** and **Electronics** categories and used these insights to suggest targeted marketing and inventory strategies.
+🎫 Worked on incident, change and problem management processes.
 
-#### 📄 **Netflix Movie Data Analysis |** _Nov 2024_
-> **Linear Regression, Python (Pandas, NumPy, Matplotlib), Advanced Excel**
+🛠️ Performed network configuration and parameter-management activities.
 
-📍 **Project Summary**
-- Analyzed **9,000+ Netflix movie records** to identify trends in **genres, popularity, ratings,** and **release years**.
-- Cleaned and transformed data using **Pandas**, including datetime conversion, year extraction, and removal of irrelevant columns.
-- Created visualizations with **Matplotlib** and **Seaborn** to examine genre distribution and yearly release trends.
-- Found **Drama to be the most frequent genre (~14%)** and **2020 to be a peak release year**; identified _Spider-Man: No Way Home_ as the most popular title based on the dataset's popularity metric.
+🤝 Collaborated with NPI, NPO and FO teams.
 
-#### 📄 **Li-Fi Communication Project |** _Jun 2023_
-> **Arduino, C/C++**
+👨‍🏫 Supported and trained Graduate Engineer Trainees.
 
-📍 **Project Summary**
-- Collaboratively developed a **Li-Fi-based communication model** for transmitting text and images using visible light communication.
-- Designed and implemented the prototype using **Arduino Uno** and **LED bulbs** for LED-based data transmission and reception.
-- Programmed the Arduino to control data encoding, transmission, and communication between the transmitter and receiver.
-- Tested the system for reliable data transmission over a **100 cm distance**, achieving approximately **0.15** seconds of measured latency.
+</details>
+🛠️ Tech Stack
+📡 Telecom & Networking
+<p> <img src="https://img.shields.io/badge/2G-GSM-167D8D?style=flat-square" /> <img src="https://img.shields.io/badge/3G-UMTS-167D8D?style=flat-square" /> <img src="https://img.shields.io/badge/4G-LTE-167D8D?style=flat-square" /> <img src="https://img.shields.io/badge/4G-VoLTE-167D8D?style=flat-square" /> <img src="https://img.shields.io/badge/5G-NR-167D8D?style=flat-square" /> <img src="https://img.shields.io/badge/IMS-Telecom-167D8D?style=flat-square" /> <img src="https://img.shields.io/badge/RF-Optimization-167D8D?style=flat-square" /> <img src="https://img.shields.io/badge/CCNA-Networking-167D8D?style=flat-square" /> </p>
+🐍 Programming & Data
+<p> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" /> <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square" /> </p>
+📊 Analytics & Visualization
+<p> <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" /> <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat-square&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" /> <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" /> </p>
+🛰️ Telecom OSS & Operations
+<p> <img src="https://img.shields.io/badge/Ericsson-NetAct-CC0000?style=flat-square" /> <img src="https://img.shields.io/badge/Ericsson-ENM-CC0000?style=flat-square" /> <img src="https://img.shields.io/badge/MAE-KPI%20%2F%20Access-444444?style=flat-square" /> <img src="https://img.shields.io/badge/Metricell-OSS-444444?style=flat-square" /> <img src="https://img.shields.io/badge/Atoll-RF%20Planning-444444?style=flat-square" /> </p>
+🔧 Tools & Platforms
+<p> <img src="https://img.shields.io/badge/ServiceNow-032D42?style=flat-square&logo=servicenow&logoColor=white" /> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" /> <img src="https://img.shields.io/badge/BMC%20Remedy-005571?style=flat-square" /> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" /> <img src="https://img.shields.io/badge/WinSCP-0055A4?style=flat-square" /> </p>
+📡 Telecom Expertise
+<table> <tr> <td width="50%">
+📶 Radio Access
 
-#### 📄 **RBI Data Analysis |** _Sept 2022_
-> **Python, Streamlit, Matplotlib, Scikit-learn, Seaborn**
+2G / GSM
 
-📍 **Project Summary**
-- Analyzed RBI-related datasets using **Python** to identify trends, patterns, and insights from financial and economic data.
-- Performed data preprocessing, exploratory data analysis, and visualization using **Pandas, Matplotlib, and Seaborn**.
-- Applied **Scikit-learn** machine learning techniques to analyze the dataset and generate data-driven insights.
-- Developed an interactive **Streamlit** dashboard to present analysis and visualizations in a user-friendly format.
-- Collaborated with team members to organize the analysis, interpret findings, and present project outcomes effectively.
+3G / UMTS
 
-#### 📄 **Salary Prediction Web Application |** _Apr 2022_
-> **Random Forest & Linear Regression, Python (Pandas, NumPy, Matplotlib)**
+4G / LTE
 
-📍 **Project Summary**  
-- Developed a Python-based web application to predict salaries based on job-related factors and candidate qualifications.
-- Applied **Linear Regression** and **Random Forest algorithms** to build and compare salary prediction models.
-- Performed data preprocessing, exploratory data analysis, and feature analysis to prepare the dataset for model training.
-- Used **Seaborn** for data visualization to identify trends and relationships between job attributes and salary.
-- Designed an intuitive web interface to allow users to enter relevant details and obtain salary predictions.
+VoLTE
 
----
+5G NR
 
-## 🛠️ Internships & Training
+RF Optimization
 
-#### 🏢 **Industrial Training Internship - BSNL (Bharat Sanchar Nigam Limited)** | _Ghaziabad, Uttar Pradesh, India_
+Traffic Management
 
-- Completed industrial training at BSNL, gaining practical exposure in telecom hardware setup & diagnostics.
-- Learned the fundamentals of 2G GSM, 3G UMTS, and 4G LTE networks, with hands-on understanding of BTS operations, and telecom service delivery.
+Neighbor Relations
 
----
+ANR
 
-## 📫 Let's Connect!
+</td> <td width="50%">
+📊 Network Performance
 
-- 📱 **Contact**: +91 85769 73517
-- 📧 **Email**: [joshimayank0925@gmail.com](mailto:joshimayank0925@gmail.com)
-- 📧 **Email**: [mayankjoshi.professional@gmail.com](mailto:mayankjoshi.professional@gmail.com)
-- 💼 **LinkedIn**: [linkedin.com/in/mayank-joshi-0285503b5](https://www.linkedin.com/in/mayank-joshi-0285503b5/)
+KPI Monitoring
 
----
+KPI Analysis
 
-<p align="center">
-  <b>“Stay curious, stay connected.”</b><br>
-  <em>🔗 Building smarter, faster, and more reliable networks!</em>
-</p>
+Root Cause Analysis
 
+Alarm & Fault Management
 
+Incident Resolution
 
+Change Management
+
+Problem Management
+
+SLA Support
+
+Network Troubleshooting
+
+</td> </tr> <tr> <td width="50%">
+⚙️ Configuration
+
+Parameter Management
+
+Term-Point Management
+
+RET Configuration
+
+Power Parameter Changes
+
+Neighbor Relation Management
+
+ANR Refresh
+
+Network Configuration
+
+</td> <td width="50%">
+🔗 Protocols & Signaling
+
+RRC
+
+NAS
+
+SIP
+
+SCTP
+
+TCP / UDP
+
+Core Network Interfaces
+
+Routing
+
+Switching
+
+VPN
+
+</td> </tr> </table>
+📊 Featured Projects
+🪔 Diwali Sales Data Analysis
+
+Python Pandas NumPy Matplotlib Advanced Excel
+
+<details> <summary>📈 <b>View Project Details</b></summary> <br>
+
+Analyzed 11,251 sales records to identify customer demographics and purchasing patterns.
+
+Cleaned and prepared raw data using Pandas.
+
+Performed exploratory data analysis across:
+
+States
+
+Customer segments
+
+Occupations
+
+Product categories
+
+Created visualizations using Matplotlib.
+
+Identified notable purchasing patterns across demographic and product segments.
+
+Used the findings to formulate potential marketing and inventory strategies.
+
+</details>
+🎬 Netflix Movie Data Analysis
+
+Python Pandas NumPy Matplotlib Seaborn Excel
+
+<details> <summary>🎥 <b>View Project Details</b></summary> <br>
+
+Analyzed 9,000+ Netflix movie records.
+
+Cleaned and transformed datasets using Pandas.
+
+Extracted year-based trends from release-date information.
+
+Explored:
+
+Genres
+
+Ratings
+
+Popularity
+
+Release years
+
+Created visualizations using Matplotlib and Seaborn.
+
+Identified Drama as the most frequent genre in the dataset.
+
+Investigated yearly release trends and title popularity.
+
+</details>
+💡 Li-Fi Communication System
+
+Arduino C/C++ Visible Light Communication
+
+<details> <summary>🔦 <b>View Project Details</b></summary> <br>
+
+Developed a prototype for Li-Fi-based communication.
+
+Used Arduino Uno and LED bulbs for data transmission and reception.
+
+Implemented data encoding and transmission logic.
+
+Tested text and image transmission.
+
+Achieved communication over approximately 100 cm.
+
+Recorded approximately 0.15 seconds measured latency during testing.
+
+</details>
+🏦 RBI Data Analysis Dashboard
+
+Python Streamlit Pandas Matplotlib Seaborn Scikit-learn
+
+<details> <summary>📊 <b>View Project Details</b></summary> <br>
+
+Analyzed RBI-related financial and economic datasets.
+
+Performed data preprocessing and exploratory analysis.
+
+Created visualizations using Matplotlib and Seaborn.
+
+Applied Scikit-learn techniques for data analysis.
+
+Built an interactive Streamlit dashboard.
+
+Collaborated with team members to interpret and present findings.
+
+</details>
+💰 Salary Prediction Web Application
+
+Python Pandas NumPy Scikit-learn Seaborn
+
+<details> <summary>🤖 <b>View Project Details</b></summary> <br>
+
+Developed a salary prediction web application.
+
+Compared Linear Regression and Random Forest models.
+
+Performed data preprocessing and feature analysis.
+
+Used visualization to investigate relationships between job attributes and salary.
+
+Created an interface allowing users to enter relevant candidate information and receive predictions.
+
+</details>
+🎓 Education
+🎓 B.Tech — Electronics & Communication Engineering
+
+Birla Institute of Applied Sciences, Bhimtal, Nainital, India
+
+71%
+
+📜 Certifications
+Year	Certification
+2026	📊 Data Analyst — Hireyy
+2025	🌐 CCNA — Network Bulls
+2025	🌐 Cisco Networking Basics — Cisco Networking Academy
+2023	🖥️ Google IT Support Specialization — Coursera
+2023	📊 Google Data Analytics Certificate — Coursera
+2023	🧮 Fundamental Algorithms: Design and Analysis — SWAYAM NPTEL Elite
+🏢 Industrial Training
+📡 BSNL — Bharat Sanchar Nigam Limited
+
+Ghaziabad, Uttar Pradesh, India
+
+<details> <summary>🔍 <b>Training Highlights</b></summary> <br>
+
+Gained practical exposure to telecom hardware setup and diagnostics.
+
+Studied fundamentals of 2G GSM, 3G UMTS and 4G LTE.
+
+Developed an understanding of BTS operations.
+
+Learned about telecom infrastructure and service delivery.
+
+</details>
+🧠 Core Strengths
+Network Troubleshooting       ████████████████████
+KPI & Performance Analysis    ███████████████████░
+Telecom / RF                  ███████████████████░
+Python & SQL                  ████████████████░░░░
+Data Visualization            ████████████████░░░░
+Automation                    ███████████████░░░░░
+
+🗺️ Career Journey
+2022 ─────── Data & ML Projects
+   │
+   ├── Salary Prediction
+   ├── RBI Data Analysis
+   └── Li-Fi Communication
+   │
+2023 ─────── Telecom Foundation
+   │
+   ├── Google Data Analytics
+   ├── Google IT Support
+   └── Joined Ericsson
+   │
+2024 ─────── Network Engineering
+   │
+   ├── KPI Analysis
+   ├── RCA & Incident Management
+   ├── RF Optimization
+   └── Data Automation
+   │
+2025 ─────── Networking & Analytics
+   │
+   ├── CCNA
+   ├── Cisco Networking Basics
+   └── Continued Telecom Engineering
+   │
+2026 ─────── Data Analytics
+   │
+   └── Data Analyst Certification
+
+📈 What I'm Interested In
+
+📡 Telecom Network Engineering
+
+📊 Network Performance & KPI Analytics
+
+📶 RF Optimization
+
+🤖 Network Automation
+
+🐍 Python for Network Engineering
+
+🗄️ SQL & Data Engineering
+
+📈 Telecom Dashboards & Visualization
+
+🌐 Networking & Infrastructure
+
+🔎 Data-driven Root Cause Analysis
+
+🤝 Let's Connect
+<div align="center">
+Have a telecom, networking or data problem?
+Let's turn it into a measurable solution. 🚀
+<br> <a href="mailto:joshimayank0925@gmail.com"> <img src="https://img.shields.io/badge/📧%20Email-joshimayank0925%40gmail.com-EA4335?style=for-the-badge" /> </a> <a href="mailto:mayankjoshi.professional@gmail.com"> <img src="https://img.shields.io/badge/📧%20Professional%20Email-Contact-EA4335?style=for-the-badge" /> </a> <a href="https://www.linkedin.com/in/mayank-joshi-0285503b5/"> <img src="https://img.shields.io/badge/💼%20LinkedIn-Mayank%20Joshi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+
+<br><br>
+
+📱 +91 85769 73517
+
+</div>
+<div align="center">
+💭 "Stay curious, stay connected."
+
+Building smarter, faster & more reliable networks. 📡
+
+</div>
