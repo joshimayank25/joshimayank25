@@ -56,8 +56,6 @@ I am a **results-driven Network Engineer** with a solid foundation in **telecom 
 
 <div align="left">
 
-| Project & Description | Project Summary |
-
 #### 📄 **Diwali Sales Data Analysis |** _Jan 2025_
 > **Linear Regression, Python (Pandas, NumPy, Matplotlib), Advanced Excel**
 
