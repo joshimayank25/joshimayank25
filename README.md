@@ -1,280 +1,309 @@
 <div align="center">
-👋 Hi, I'm Mayank Joshi
-📡 Network Engineer • RF Engineer • Telecom • Data Analytics
+👋 Hey, I'm Mayank Joshi
+📡 Network Engineer • RF & Telecom • Network Analytics • Automation
 
-I work at the intersection of telecommunications, network performance, data, and automation.
+I work with networks, data, and the problems that sit somewhere in between.
 
-<p> <a href="mailto:mayankjoshi.professional@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/mayank-joshi-0285503b5/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p> </div>
-🚀 About Me
+<p> <a href="mailto:mayankjoshi.professional@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> <a href="https://www.linkedin.com/in/mayank-joshi-0285503b5/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> </p> </div>
+🧑‍💻 A little about me
 
-I'm a Network Engineer and Telecom professional with hands-on experience working with 2G, 3G, 4G, and 5G mobile networks, with a particular focus on network performance, RF optimization, KPI analysis, incident management, and operational automation.
+I'm a Network Engineer with a background in Electronics & Communication Engineering, and my professional experience has been rooted in mobile telecommunications, RF optimization, network performance, and incident management.
 
-During my experience at Ericsson, I worked in a multi-vendor telecom environment where network performance isn't just a number on a dashboard — it directly affects how people communicate, work, and stay connected.
+At Ericsson, I worked with multi-vendor 2G, 3G, 4G, and 5G networks, spending a lot of time looking at the signals behind network behaviour — KPIs, alarms, performance trends, configuration changes, and incidents.
 
-My work has involved monitoring network health, analysing performance indicators, investigating degradation, handling critical incidents, performing optimization activities, and collaborating with global teams to keep network services reliable and within SLA expectations.
+But what I enjoy most is going one step further:
 
-Alongside telecom engineering, I've developed a strong interest in data analytics and automation. I enjoy taking repetitive engineering workflows, large datasets, and complicated performance information and turning them into something simpler, measurable, visual, and actionable.
+Why did the KPI change?
+What caused the degradation?
+Can the investigation be automated?
+Can the data tell the story more clearly?
 
-💡 What drives me
+That curiosity gradually pulled me deeper into Python, SQL, data analytics, and visualization.
 
-Understand the problem → find the signal in the data → automate what can be automated → build a solution that actually helps people.
+Today, I see telecom and data engineering as two sides of the same problem. A network produces an enormous amount of information; the real engineering challenge is turning that information into something useful, understandable, and actionable.
 
-I'm particularly interested in opportunities where telecom engineering, RF/network performance, data analytics, Python/SQL, and automation come together.
+📡 Build reliable networks.
+📊 Understand the data behind them.
+🤖 Automate the repetitive work.
 
-🧭 My Engineering Journey
-Telecommunications
-       │
-       ├── 2G / 3G / 4G / 5G
-       │
-       ├── RF & Network Optimization
-       │
-       ├── KPI & Performance Analysis
-       │
-       └── Incident / Fault Management
-                    │
-                    ▼
-              Data Analytics
-                    │
-       ┌────────────┼────────────┐
-       ▼            ▼            ▼
-     Python        SQL       Visualization
-       │            │            │
-       └────────────┼────────────┘
-                    ▼
-               Automation
-                    │
-                    ▼
-          Data-driven Engineering
+🔭 What I'm interested in
+        ┌───────────────────────────────┐
+        │       TELECOM ENGINEERING     │
+        │                               │
+        │   2G • 3G • 4G • 5G • RF      │
+        └──────────────┬────────────────┘
+                       │
+                       ▼
+        ┌───────────────────────────────┐
+        │      NETWORK PERFORMANCE      │
+        │                               │
+        │  KPIs • Alarms • RCA • SLA    │
+        └──────────────┬────────────────┘
+                       │
+                       ▼
+        ┌───────────────────────────────┐
+        │        DATA & ANALYTICS       │
+        │                               │
+        │ Python • SQL • Dashboards     │
+        └──────────────┬────────────────┘
+                       │
+                       ▼
+        ┌───────────────────────────────┐
+        │          AUTOMATION           │
+        │                               │
+        │   Less manual work. More      │
+        │       useful engineering.     │
+        └───────────────────────────────┘
+
+
+I'm particularly interested in:
+
+📡 4G / 5G network performance
+
+📶 RF optimization and network quality
+
+📊 Telecom KPI analytics
+
+🚨 Network monitoring and incident management
+
+🐍 Python-based engineering automation
+
+🗄️ SQL and data analysis
+
+📈 Interactive dashboards and visualization
+
+🔍 Root Cause Analysis and troubleshooting
+
+🌐 Networking, protocols, and infrastructure
 
 💼 Professional Experience
 🛰️ Network Engineer — Ericsson Global India Pvt. Ltd.
 
 Nov 2023 – Jun 2025
 
-Worked on the monitoring, analysis, troubleshooting, and optimization of multi-vendor 2G/3G/4G/5G telecom networks, supporting network availability, service quality, and SLA performance.
+Worked on multi-vendor mobile network operations and performance, covering network monitoring, KPI analysis, incident management, troubleshooting, RF optimization, reporting, and automation.
 
-📊 Network Performance & KPI Analysis
+📊 Network Performance
 
-Analysed telecom network KPIs including NEST Count, LTE Accessibility, E-RAB Drop Rate, VoLTE CSSR/DCR, PRB Utilisation, DL/UL Throughput, RSRP, RSRQ, SINR, HOSR, and Network Availability.
+Monitored 2G/3G/4G/5G network performance, service availability, and SLA-related indicators.
 
-Investigated KPI degradation and performance anomalies to identify potential service-impacting issues.
+Analysed telecom KPIs including NEST Count, LTE Accessibility, E-RAB Drop Rate, VoLTE CSSR/DCR, PRB Utilisation, DL/UL Throughput, RSRP, RSRQ, SINR, HOSR, and Network Availability.
 
-Generated and analysed Daily, Weekly, and Monthly performance reports for customer and internal stakeholders.
+Investigated KPI degradation and performance anomalies to identify trends and potential service-impacting issues.
 
-Identified performance trends and translated KPI behaviour into actionable corrective measures.
+Produced daily, weekly, and monthly performance reports for customer and internal stakeholders.
 
-Monitored network health across 2G, 3G, 4G, and 5G technologies.
+Translated network-performance data into actionable observations and corrective activities.
 
-🚨 Alarm & Incident Management
+🚨 Monitoring & Incident Management
 
-Monitored network alarms using Ericsson ENM and Nokia NetAct in multi-vendor environments.
+Monitored network alarms through Ericsson ENM and Nokia NetAct across multi-vendor environments.
 
 Triaged Critical, Major, and Minor alarms and coordinated troubleshooting activities.
 
-Managed incidents through BMC Remedy, ServiceNow, and Jira.
+Managed incidents using BMC Remedy, ServiceNow, and Jira.
 
 Performed Root Cause Analysis (RCA) for network incidents and performance degradation.
 
-Acted as SPOC for critical incidents and performance anomalies, coordinating stakeholders and escalations through resolution.
+Acted as a SPOC for critical incidents and performance anomalies, coordinating communication and escalation through resolution.
 
-Supported SLA adherence through proactive monitoring and timely incident resolution.
+Worked within defined SLA processes to minimize service impact and restore network performance.
 
 📡 RF & Network Optimization
 
-Supported network optimization activities across 4G and 5G environments.
+Supported network optimization activities across 4G and 5G networks.
 
-Executed RET tilt adjustments, ANR refresh, neighbour relation management, and configuration updates.
+Performed activities including RET tilt adjustments, ANR refresh, neighbour relation management, and configuration updates.
 
-Analysed network behaviour to identify opportunities for improving coverage, accessibility, throughput, and service quality.
+Analysed network performance to identify opportunities for improving coverage, accessibility, throughput, and service quality.
 
-Worked with cross-functional NPI, NPO, FO, and global teams to execute network-related activities.
+Supported RF-related engineering and traffic-flow requirements across multi-vendor cellular networks.
 
-🤖 Automation & Data Visualization
+🤖 Data & Automation
 
-Automated repetitive engineering workflows using SQL, improving operational efficiency and reducing manual data-processing activities.
+Used SQL to automate repetitive engineering and reporting workflows.
 
-Developed dynamic and interactive dashboards using Tableau and Looker Studio for KPI monitoring and performance analysis.
+Built interactive dashboards using Tableau and Looker Studio for KPI and performance visualization.
 
-Combined telecom domain knowledge with data analysis to make large volumes of network information easier to interpret.
+Worked with network data to make operational reporting more consistent, visual, and easier to interpret.
 
-🤝 Collaboration & Knowledge Sharing
+🤝 Collaboration
 
-Collaborated with cross-functional and global teams to troubleshoot complex network issues and coordinate escalations.
+Coordinated with NPI, NPO, FO, and global teams during network activities and critical issue resolution.
 
-Supported operational execution across multi-vendor telecom environments.
+Worked across technical and operational teams to manage escalations and execute corrective actions.
 
-Trained and supported Graduate Engineer Trainees (GETs) on network monitoring, KPI analysis, and operational processes.
+Supported and trained Graduate Engineer Trainees (GETs) on network monitoring, KPI analysis, and operational processes.
 
-🛠️ Technical Stack
-📡 Telecom & Wireless
+🛠️ My Technical Toolkit
+📡 Telecom
 
-2G GSM 3G UMTS 4G LTE VoLTE 5G NR IMS RRC NAS
+2G GSM 3G UMTS 4G LTE VoLTE 5G NR IMS
 
-📊 Network Performance & RF
+📊 Network & RF
 
 KPI Analysis RF Optimization Network Monitoring Performance Management
 
 RSRP RSRQ SINR HOSR CSSR DCR PRB Utilisation
 
-RET Configuration ANR Refresh Neighbour Management RCA
+RET ANR Neighbour Management RCA CRQ
 
-🖥️ OSS & Telecom Platforms
+🖥️ OSS / Telecom Platforms
 
 Ericsson ENM Nokia NetAct MAE Metricell Atoll Mycom
 
 🚨 ITSM & Operations
 
-ServiceNow BMC Remedy Jira ITSM Incident Management CRQ
+ServiceNow BMC Remedy Jira ITSM Incident Management
 
-💻 Programming & Data
+💻 Data & Programming
 
-Python SQL Pandas NumPy Matplotlib Seaborn
+Python SQL Pandas NumPy
 
-📈 Analytics & Visualization
+Matplotlib Seaborn Streamlit
 
-Tableau Looker Studio Streamlit Advanced Excel
+📈 Visualization
 
-🌐 Networking
+Tableau Looker Studio Advanced Excel
 
-CCNA Routing & Switching TCP/IP TCP/UDP SIP
+🌐 Networking & Protocols
 
-🔧 Tools
+CCNA Routing & Switching TCP/IP TCP/UDP
+
+RRC NAS SIP
+
+🔧 Engineering Tools
 
 Wireshark WinSCP Git GitHub
 
-📊 What I Like Working On
-<table> <tr> <td width="50%">
-📡 Telecom Engineering
-
-Network performance
-
-RF optimization
-
-4G / 5G technologies
-
-KPI analysis
-
-Network troubleshooting
-
-Alarm management
-
-</td> <td width="50%">
-🤖 Data & Automation
-
-Python automation
-
-SQL analytics
-
-Data cleaning
-
-Interactive dashboards
-
-Reporting automation
-
-Engineering workflows
-
-</td> </tr> </table>
 🚀 Featured Projects
-📊 Diwali Sales Data Analysis
 
-Python • Pandas • NumPy • Matplotlib • Seaborn • Advanced Excel
+I like projects where I can take a messy problem or dataset, understand what's happening underneath, and turn it into something people can actually use.
 
-A data-analysis project focused on understanding customer behaviour and purchasing patterns from a large retail dataset.
-
-Analysed 11,251 sales records to identify customer demographics and purchasing behaviour.
-
-Cleaned and transformed raw data by handling missing values, removing irrelevant fields, and converting data types.
-
-Performed exploratory data analysis across states, occupations, age groups, marital status, product categories, and purchasing patterns.
-
-Built visualizations using Python to make demographic and sales trends easier to understand.
-
-Identified notable purchasing patterns across customer segments and product categories.
-
-Translated analytical findings into potential marketing and inventory-planning insights.
-
-🎬 Netflix Movie Data Analysis
+📊 Diwali Sales Analysis
 
 Python • Pandas • NumPy • Matplotlib • Seaborn • Excel
 
-An exploratory analysis of 9,000+ Netflix movie records, designed to understand content trends and characteristics within the dataset.
+An exploratory data-analysis project focused on understanding customer behaviour and purchasing patterns from 11,251 retail transactions.
 
-Cleaned and transformed movie data using Pandas.
+What I worked on
 
-Converted date fields and extracted release-year information for analysis.
+Cleaned and prepared 11,251 sales records for analysis.
 
-Analysed genres, popularity, ratings, and release-year trends.
+Handled missing values, irrelevant fields, and numeric data conversion.
 
-Created visualizations using Matplotlib and Seaborn.
+Explored purchasing behaviour across age groups, gender, marital status, occupation, states, and product categories.
 
-Explored genre distribution and changes in movie releases over time.
+Used Python visualizations to uncover patterns that aren't immediately obvious in raw transactional data.
 
-Identified Drama as the most frequent genre in the dataset and examined high-popularity titles.
+Investigated customer segments and high-demand product categories.
+
+Converted the analysis into practical observations around customer targeting and inventory planning.
+
+The interesting part: the project wasn't just about creating charts — it was about asking what story is the data actually telling?
+
+🎬 Netflix Movie Data Analysis
+
+Python • Pandas • NumPy • Matplotlib • Seaborn
+
+An exploratory analysis of 9,000+ movie records looking at how genres, popularity, ratings, and release years are distributed within the dataset.
+
+What I explored
+
+Cleaned and transformed raw movie data using Pandas.
+
+Converted date fields and extracted release-year information.
+
+Analysed genre frequency, popularity, ratings, and release trends.
+
+Built visualizations with Matplotlib and Seaborn.
+
+Examined changes in movie releases across different years.
+
+Identified Drama as the most frequent genre within the dataset and explored high-popularity titles.
 
 💡 Li-Fi Communication System
 
 Arduino • C/C++ • Visible Light Communication
 
-A hardware prototype exploring communication through visible light rather than conventional RF transmission.
+A hardware project exploring the idea of transmitting information using visible light instead of conventional radio communication.
 
-Collaboratively developed a Li-Fi communication prototype capable of transmitting text and images.
+What we built
 
-Used Arduino Uno and LED-based transmission for the prototype.
+Developed a prototype for transmitting text and images through visible light.
 
-Programmed the microcontroller for data encoding, transmission, and reception.
+Used an Arduino Uno with LED-based transmission and reception.
 
-Tested the prototype across a distance of approximately 100 cm.
+Programmed the system for data encoding, transmission, and reception.
+
+Tested communication over approximately 100 cm.
 
 Recorded approximately 0.15 seconds of measured latency during testing.
 
-Explored the practical challenges involved in visible-light-based data communication.
+This project gave me a practical introduction to the relationship between electronics, communication systems, embedded programming, and real-world signal transmission.
 
 🏦 RBI Data Analysis Dashboard
 
 Python • Pandas • Matplotlib • Seaborn • Scikit-learn • Streamlit
 
-An interactive data-analysis project designed to transform financial and economic datasets into accessible visual insights.
+A data-analysis project built around financial and economic datasets, with an emphasis on making analytical results easier to explore.
 
-Performed data preprocessing and exploratory analysis using Pandas.
+What I worked on
 
-Created statistical and visual analyses using Matplotlib and Seaborn.
+Performed data cleaning and preprocessing using Pandas.
+
+Conducted exploratory data analysis to identify trends and relationships.
+
+Created visualizations using Matplotlib and Seaborn.
 
 Applied Scikit-learn techniques for analytical modelling.
 
-Developed an interactive Streamlit dashboard for exploring results.
+Built an interactive Streamlit dashboard to make the results easier to explore.
 
-Focused on making complex datasets easier to interpret through interactive visualizations.
+Focused on presenting data in a way that connects analysis with practical interpretation.
 
 💰 Salary Prediction Web Application
 
 Python • Pandas • NumPy • Scikit-learn • Random Forest • Linear Regression
 
-A machine-learning application that estimates salary based on job-related attributes and candidate information.
+A machine-learning project that explores how job-related attributes can be used to estimate salary.
+
+What I built
 
 Prepared and explored the dataset using Python.
 
-Performed feature analysis and data preprocessing before model training.
+Performed data preprocessing and feature analysis.
 
-Implemented and compared Linear Regression and Random Forest models.
+Implemented Linear Regression and Random Forest models.
 
-Used visualization to understand relationships between job characteristics and salary.
+Compared model behaviour and explored relationships between job attributes and salary.
 
-Built a user-facing interface for entering inputs and generating predictions.
+Created visualizations using Python.
+
+Developed a simple user-facing application for entering inputs and generating predictions.
 
 🏢 Industrial Training
 BSNL — Bharat Sanchar Nigam Limited
 
 Ghaziabad, Uttar Pradesh
 
-Completed industrial training focused on the fundamentals of telecommunications and network infrastructure.
+My industrial training at BSNL gave me an early look at how the concepts I studied in Electronics & Communication Engineering translate into real telecom infrastructure.
 
-Gained practical exposure to telecom hardware setup and diagnostics.
+During the training, I gained exposure to:
 
-Studied fundamentals of 2G GSM, 3G UMTS, and 4G LTE.
+📡 2G GSM
 
-Developed an understanding of BTS operations and telecom service delivery.
+📶 3G UMTS
 
-Connected academic concepts in electronics and communication engineering with real-world telecom infrastructure.
+🌐 4G LTE
+
+🛰️ BTS operations
+
+🔧 Telecom hardware setup and diagnostics
+
+📞 Telecom service delivery
+
+It was one of the experiences that helped connect the dots between communication theory and actual network infrastructure.
 
 🎓 Education
 🎓 B.Tech — Electronics & Communication Engineering
@@ -295,72 +324,84 @@ Raj Kumar Academy, Lucknow, Uttar Pradesh
 
 70%
 
-📜 Certifications & Learning
+📜 Certifications
+Certification	Platform / Organization	Year
+📊 Data Analyst Certification	Hireyy	2026
+🌐 CCNA — Cisco Certified Network Associate	Network Bulls	2025
+🖥️ Google IT Support Professional Specialization	Coursera	2023
+📊 Google Data Analytics Specialization	Coursera	2023
+🧠 Fundamental Algorithms: Design & Analysis — NPTEL Elite	SWAYAM / NPTEL	2023
+📈 What I'm Learning Next
 
-Data Analyst Certification — Hireyy, 2026
+The direction I'm most interested in is the space where telecom engineering meets software and data.
 
-CCNA — Cisco Certified Network Associate — Network Bulls, 2025
+                 ┌───────────────┐
+                 │   NETWORKS    │
+                 └───────┬───────┘
+                         │
+                         ▼
+                 ┌───────────────┐
+                 │     DATA      │
+                 └───────┬───────┘
+                         │
+                         ▼
+                 ┌───────────────┐
+                 │   ANALYTICS   │
+                 └───────┬───────┘
+                         │
+                         ▼
+                 ┌───────────────┐
+                 │  AUTOMATION   │
+                 └───────┬───────┘
+                         │
+                         ▼
+                 ┌───────────────┐
+                 │    BETTER     │
+                 │  ENGINEERING  │
+                 └───────────────┘
 
-Google IT Support Professional Specialization — Coursera, 2023
 
-Google Data Analytics Specialization — Coursera, 2023
+I'm continuing to explore:
 
-Fundamental Algorithms: Design and Analysis — NPTEL Elite — Apr 2023
+🔹 Telecom data engineering
 
-📈 Currently Exploring
+🔹 Network performance automation
 
-I'm continuously building my skills around the combination of telecom + data + automation.
+🔹 Python for network engineering
 
-📡 5G & Wireless Networks
-      +
-📊 Network Performance Analytics
-      +
-🐍 Python & SQL
-      +
-🤖 Automation
-      +
-📈 Data Visualization
-      =
-🚀 Smarter Network Engineering
+🔹 Advanced SQL
 
+🔹 4G/5G optimization
 
-Areas I'm particularly interested in:
+🔹 Network observability
 
-Network performance automation
+🔹 Data visualization
 
-Telecom data analytics
+🔹 Automation of repetitive NOC/engineering workflows
 
-4G/5G network optimization
+🧠 How I Think About Engineering
 
-Python-based engineering tools
+I don't think a dashboard is the end of the process.
 
-SQL-driven KPI analysis
+A dashboard tells you what happened.
 
-Interactive network dashboards
+Good analysis should help answer:
 
-Network monitoring and observability
+Why did it happen?
 
-Data-driven operational decision making
+And good engineering should eventually help answer:
 
-🧠 Engineering Philosophy
+How can we prevent it, automate it, or make the next investigation easier?
 
-Don't just monitor the number. Understand why it changed.
+That's the mindset I'm trying to bring from telecom engineering into data and software.
 
-A KPI is only the beginning.
+🌐 Let's Connect
 
-The interesting part is understanding what changed, why it changed, how it affects the network, and what can be done next.
+If you're working on telecom, RF engineering, 4G/5G, network analytics, Python, SQL, automation, or data engineering, I'd be happy to connect and exchange ideas.
 
-That's the approach I try to bring to both telecom engineering and data analytics.
+<p align="center"> <a href="mailto:mayankjoshi.professional@gmail.com"> <img src="https://img.shields.io/badge/Let's%20Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/mayank-joshi-0285503b5/"> <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p> <div align="center">
+📡 Networks are everywhere. Data explains what they're doing.
 
-🤝 Let's Connect
-
-I'm always interested in connecting with people working in:
-
-Telecom • RF Engineering • 4G/5G • Network Engineering • Data Analytics • Python • SQL • Automation
-
-<p align="center"> <a href="mailto:mayankjoshi.professional@gmail.com"> <img src="https://img.shields.io/badge/Email-Drop%20me%20a%20message-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/mayank-joshi-0285503b5/"> <img src="https://img.shields.io/badge/LinkedIn-Mayank%20Joshi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p> <div align="center">
-🌐 Building better networks. Making data useful. Automating the repetitive.
-
-Thanks for visiting my profile! ⭐
+Thanks for stopping by. ⭐
 
 </div>
