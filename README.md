@@ -94,7 +94,7 @@ I am a **results-driven Network Engineer** with a solid foundation in **telecom 
 
 ### 📫 Let's Build the Future of Connectivity Together!
 
-📱 **Phone:** +91 85769 73517 &nbsp;&bull;&nbsp; 📧 **Email:** [joshimayank0925@gmail.com](mailto:joshimayank0925@gmail.com)
+📱 **Phone:** +91 85769 73517 &nbsp;&bull;&nbsp; 📧 **Email:** [mayankjoshi.professional@gmail.com](mailto:mayankjoshi.professional@gmail.com) &nbsp;&bull;&nbsp; 📧 **Email:** [joshimayank0925@gmail.com](mailto:joshimayank0925@gmail.com)
 
   <br>
   
