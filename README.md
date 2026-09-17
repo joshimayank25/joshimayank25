@@ -74,10 +74,20 @@ I am a **results-driven Network Engineer** with a solid foundation in **telecom 
 > **Arduino, C/C++**
 
 📍 **Project Summary**
-- Collaboratively developed a Li-Fi-based communication model for transmitting text and images using visible light communication.
-- Designed and implemented the prototype using Arduino Uno and LED bulbs for LED-based data transmission and reception.
+- Collaboratively developed a **Li-Fi-based communication model** for transmitting text and images using visible light communication.
+- Designed and implemented the prototype using **Arduino Uno** and **LED bulbs** for LED-based data transmission and reception.
 - Programmed the Arduino to control data encoding, transmission, and communication between the transmitter and receiver.
-- Tested the system for reliable data transmission over a 100 cm distance, achieving approximately 0.073 seconds of measured latency.
+- Tested the system for reliable data transmission over a **100 cm distance**, achieving approximately **0.15** seconds of measured latency.
+
+#### 📄 **RBI Data Analysis |** _Sept 2022_
+> **Python, Streamlit, Matplotlib, Scikit-learn, Seaborn**
+
+📍 **Project Summary**
+- Analyzed RBI-related datasets using **Python** to identify trends, patterns, and insights from financial and economic data.
+- Performed data preprocessing, exploratory data analysis, and visualization using **Pandas, Matplotlib, and Seaborn**.
+- Applied **Scikit-learn** machine learning techniques to analyze the dataset and generate data-driven insights.
+- Developed an interactive **Streamlit** dashboard to present analysis and visualizations in a user-friendly format.
+- Collaborated with team members to organize the analysis, interpret findings, and present project outcomes effectively.
 
 #### 📄 **Salary Prediction Web Application |** _Apr 2022_
 > **Random Forest & Linear Regression, Python (Pandas, NumPy, Matplotlib)**
