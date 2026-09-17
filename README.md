@@ -70,7 +70,8 @@ I am a **results-driven Network Engineer** with a solid foundation in **telecom 
 
 ## 📚 Projects
 
-####📄 **Li-Fi Communication Project |** _Arduino, C/C++_ – Jun 2023
+####📄 **Li-Fi Communication Project |** _Arduino, C/C++_
+- Jun 2023
 
 📍 **Project Highlights**  
 - Designed & optimized antennas for wideband applications.
