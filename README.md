@@ -67,26 +67,19 @@ I am a **results-driven Network Engineer** with a solid foundation in **telecom 
 
 ---
 
-## 🎓 Education & Certifications
+## 🎓 Education
 
-- 🎓 **B.Tech in Electronics & Communication Engineering** | *Birla Institute of Applied Sciences, Nainital (71%)*
-- 📜 **CCNA – Cisco Certified Network Associate** | *Network Bulls (2025)*
+- 🎓 **B.Tech in Electronics & Communication Engineering** | *Birla Institute of Applied Sciences, Bhimtal, Nainital (71%)*
+- 🎓 **Intermediate** | *Raj Kumar Acadmey, Lucknow, UP (65%)*
+- 🎓 **High School** | *Raj Kumar Acadmey, Lucknow, UP (70%)*
+
+## 🎓 Courses & Certifications
+
 - 📜 **Data Analyst Certification** | *Hireyy (2026)*
-- 📜 **Google Data Analytics & IT Support Professional Certificates** | *Coursera (2023)*
-
----
-
-## 📈 GitHub Stats & Activity
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=joshimayank0925&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1e1e2e" alt="Mayank's GitHub Stats" />
-  
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=joshimayank0925&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-  </p>
-
-</div>
+- 📜 **CCNA – Cisco Certified Network Associate** | *Network Bulls (2025)*
+- 📜 **Google IT Support Professional Specialization Certificates** | *Coursera (2023)*
+- 📜 **Google Data Analytics Specialization Certificates** | *Coursera (2023)*
+- 📜 **Fundamental Algorithms: Design and Analysis** | *Swayam NPTEL Elite (Apr 2023)*
 
 ---
 
