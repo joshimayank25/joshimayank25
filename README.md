@@ -42,7 +42,7 @@ I am a **results-driven Network Engineer** with a solid foundation in **telecom 
 | Category | Core Tools & Technologies |
 | :--- | :--- |
 | **Telecom & Domains** | <code>2G GSM</code> • <code>3G UMTS</code> • <code>4G LTE/VoLTE</code> • <code>5G NR</code> • <code>IMS</code> • <code>Core Interfaces</code> |
-| **OSS & Management** | <code>NetAct</code> • <code>ENM</code> • <code>MAE</code> • <code>Metricell</code> • <code>Atoll</code> • <code>ITSM</code> |
+| **OSS & Management** | <code>NetAct</code> • <code>ENM</code> • <code>MAE</code> • <code>Metricell</code> • <code>Atoll</code> • <code>ITSM</code> • <code>Mycom</code> |
 | **Operations & Config** | <code>KPI Monitoring</code> • <code>RF Optimization</code> • <code>RCA/CRQ</code> • <code>ANR Refresh</code> • <code>RET Config</code> |
 | **Data & Programming** | <code>Python</code> • <code>SQL</code> • <code>Pandas</code> • <code>NumPy</code> • <code>Matplotlib</code> • <code>Seaborn</code> • <code>Streamlit</code> |
 | **ITSM & Testing** | <code>ServiceNow</code> • <code>Jira</code> • <code>BMC Remedy</code> • <code>Wireshark</code> • <code>WinSCP</code> |
