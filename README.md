@@ -72,9 +72,11 @@ I am a **results-driven Network Engineer** with a solid foundation in **telecom 
 
 ####📄 **Li-Fi Communication Project |** _Jun 2023_
 > **Arduino, C/C++**
-📍 **Project Highlights**  
-- Designed & optimized antennas for wideband applications.
-- Conducted simulations and layout designs for 5G and WiMAX coverage.
+
+📍 **Project Summary**  
+- Collaboratively developed a Li-Fi-based communication model for seamless transmission of text and images using visible light communication.
+- Designed and implemented a Li-Fi communication system using Arduino Uno, achieving 2 Gbps data transfer over 100 cm with 0.073s latency.
+- Programmed Arduino for efficient data transmission using LED-based hardware and communication protocols.
 
 ---
 
