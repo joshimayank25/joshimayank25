@@ -63,6 +63,8 @@ Results-driven **Network & RF Engineer** with hands-on expertise managing multi-
 | **💡 Li-Fi Optical Communication Model**<br>Built a working optical wireless prototype capable of transmitting digital text/images using light waves. | <code>Arduino Uno</code> <code>C/C++</code> <code>Hardware Prototypes</code><br>⚡ Achieved dependable 100cm transmission with ~0.15s ultra-low latency. |
 | **💵 Salary Prediction Web App**<br>Engineered machine learning models to accurately estimate professional compensation based on attributes. | <code>Scikit-Learn</code> <code>Random Forest</code> <code>Streamlit</code><br>📊 Deployed an interactive user interface for instantaneous testing. |
 
+</div>
+
 ---
 
 ## 🏢 Internships & Education
@@ -72,20 +74,6 @@ Results-driven **Network & RF Engineer** with hands-on expertise managing multi-
 - 📜 **CCNA – Cisco Certified Network Associate** | *Network Bulls (2025)*
 - 📜 **Data Analyst Professional Certification** | *Hireyy (2026)*
 - 📜 **Google Data Analytics & IT Support Specializations** | *Coursera (2023)*
-
----
-
-## 📈 GitHub Metrics
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=joshimayank0925&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1e1e2e" alt="Mayank's GitHub Stats" />
-  
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=joshimayank0925&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-  </p>
-
-</div>
 
 ---
 
