@@ -54,7 +54,7 @@ I am a **results-driven Network Engineer** with a solid foundation in **telecom 
 
 ## ⚡ Featured Projects
 
-<div align="center">
+<div align="left">
 
 | Project & Description | Project Summary |
 
