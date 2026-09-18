@@ -27,6 +27,7 @@
 ### 🛰️ **Network & RF Operations Engineer (MS Optimisation & Performance) | Ericsson Global India Pvt. Ltd.**
 *🗓️ Nov 2023 – Present*
 > Operators: Vodafone UK, EE (BT Group), 3UK, VMO2 | Vendors: Ericsson, Nokia, Huawei
+
 > Payroll: LanceSoft, INC
 
 
