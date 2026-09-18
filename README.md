@@ -24,7 +24,7 @@
 
 ## 💼 Professional Experience
 
-### 🛰️ **Network Engineer | Ericsson Global India Pvt. Ltd.**
+### 🛰️ **Network & RF Operations Engineer (MS Optimisation & Performance) | Ericsson Global India Pvt. Ltd.**
 >*🗓️ Nov 2023 – Present*
 
 - Continuously monitored and optimized core cellular KPIs (including LTE Accessibility, E-RAB Drop Rates, VoLTE CSSR/DCR, PRB Utilization, DL/UL Throughput, RSRP/RSRQ/SINR, and HOSR) to safeguard network quality and user experience.
@@ -66,8 +66,7 @@
 
 <div align="left">
 
-### 📄 **Diwali Sales Data Analysis |**
-*🗓️ Jan 2025*
+### 📄 **Diwali Sales Data Analysis |** *🗓️ Jan 2025*
 > **Linear Regression, Python (Pandas, NumPy, Matplotlib), Advanced Excel**
 
 📍 **Project Summary**
@@ -77,7 +76,7 @@
 - Identified key purchasing patterns, including higher purchasing activity among **married women aged 26–35** and customers from **Uttar Pradesh and Maharashtra**.
 - Observed notable demand across **Food, Clothing,** and **Electronics** categories and used these insights to suggest targeted marketing and inventory strategies.
 
-### 📄 **Netflix Movie Data Analysis |** _Nov 2024_
+### 📄 **Netflix Movie Data Analysis |** *🗓️ Nov 2024*
 > **Linear Regression, Python (Pandas, NumPy, Matplotlib), Advanced Excel**
 
 📍 **Project Summary**
@@ -86,7 +85,7 @@
 - Created visualizations with **Matplotlib** and **Seaborn** to examine genre distribution and yearly release trends.
 - Found **Drama to be the most frequent genre (~14%)** and **2020 to be a peak release year**; identified _Spider-Man: No Way Home_ as the most popular title based on the dataset's popularity metric.
 
-### 📄 **Li-Fi Communication Project |** _Jun 2023_
+### 📄 **Li-Fi Communication Project |** *🗓️ Jun 2023*
 > **Arduino, C/C++**
 
 📍 **Project Summary**
@@ -95,7 +94,7 @@
 - Programmed the Arduino to control data encoding, transmission, and communication between the transmitter and receiver.
 - Tested the system for reliable data transmission over a **100 cm distance**, achieving approximately **0.15** seconds of measured latency.
 
-### 📄 **RBI Data Analysis |** _Sept 2022_
+### 📄 **RBI Data Analysis |** *🗓️ Sept 2022*
 > **Python, Streamlit, Matplotlib, Scikit-learn, Seaborn**
 
 📍 **Project Summary**
@@ -105,7 +104,7 @@
 - Developed an interactive **Streamlit** dashboard to present analysis and visualizations in a user-friendly format.
 - Collaborated with team members to organize the analysis, interpret findings, and present project outcomes effectively.
 
-### 📄 **Salary Prediction Web Application |** _Apr 2022_
+### 📄 **Salary Prediction Web Application |** *🗓️ Apr 2022*
 > **Random Forest & Linear Regression, Python (Pandas, NumPy, Matplotlib)**
 
 📍 **Project Summary**  
