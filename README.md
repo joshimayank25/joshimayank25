@@ -53,9 +53,9 @@ Results-driven **Network & RF Engineer** with hands-on expertise managing multi-
 | :--- | :--- |
 | **Telecom & Core Domains** | <code>2G GSM</code> • <code>3G UMTS</code> • <code>4G LTE/VoLTE</code> • <code>5G NR</code> • <code>IMS</code> • <code>Core Interfaces</code> |
 | **OSS & Network Management** | <code>NetAct</code> • <code>ENM</code> • <code>MAE</code> • <code>Metricell</code> • <code>Atoll</code> • <code>ITSM</code> • <code>Mycom</code> |
-| **Operations & Configuration** | <code>KPI Analysis & Monitoring</code> • <code>RF Optimization</code> • <code>RCA / CRQ Management</code> • <code>RET Config</code> |
+| **Operations & Configuration** | <code>KPI Analysis & Monitoring</code> • <code>RF Optimization</code> • <code>INC / CRQ / Problem Management</code> • <code>Root cause Analysis</code> • <code>RET Config</code> |
 | **Data Analytics & Scripting** | <code>Python</code> • <code>SQL</code> • <code>Pandas</code> • <code>NumPy</code> • <code>Matplotlib</code> • <code>Seaborn</code> • <code>Streamlit</code> |
-| **ITSM & Testing Platforms** | <code>ServiceNow</code> • <code>Jira</code> • <code>BMC Remedy</code> • <code>Wireshark</code> • <code>WinSCP</code> |
+| **ITSM & Testing Platforms** | <code>BMC Remedy</code> • <code>ServiceNow</code> • <code>Jira</code> • <code>Wireshark</code> • <code>WinSCP</code> |
 | **Networking & Signaling** | <code>Routing & Switching</code> • <code>CCNA</code> • <code>RRC/NAS</code> • <code>SIP</code> • <code>SCTP</code> • <code>TCP/UDP</code> |
 
 </div>
