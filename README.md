@@ -79,7 +79,7 @@ Results-driven **Network & RF Engineer** with hands-on expertise managing multi-
 
 ## 🎓 Education
 
-###🎓 *B.Tech in Electronics & Communication Engineering**  
+### 🎓 **B.Tech in Electronics & Communication Engineering**  
 📍 *Birla Institute of Applied Sciences, Bhimtal, Nainital, India*  
 📈 GPA: **71%**
 
