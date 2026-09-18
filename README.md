@@ -16,7 +16,7 @@
 
 ## 🎯 Professional Summary
 
-Results-driven **Network & RF Engineer** with hands-on expertise managing multi-vendor **2G, 3G, 4G LTE/VoLTE, and 5G NR** telecom architectures at scale. Adept at transforming complex network telemetry, alarm metrics, and performance counters into automated, data-driven solutions. Proven capability in proactive fault identification via OSS tools, root-cause investigations (RCA), and driving continuous service optimization to ensure strict SLA compliance. Passionate about bridging core telecom infrastructure with modern software automation and analytics.
+**Engineered** and optimized multi-vendor **2G, 3G, 4G LTE/VoLTE, and 5G NR** telecom architectures at scale as a results-driven Network & RF Engineer. **Transformed** complex network telemetry, alarm metrics, and performance counters into automated, data-driven solutions. **Delivered** strict SLA compliance through proactive fault identification via OSS tools, thorough root-cause investigations (RCA), and continuous service optimization. **Bridged** core telecom infrastructure with modern software automation and advanced data analytics to drive operational excellence.
 
 > 💡 _"Turning complex network degradation trends into proactive, automated optimization solutions."_
 
