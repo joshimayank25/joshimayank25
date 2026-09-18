@@ -57,7 +57,7 @@
 | **Operations & Configuration** | <code>KPI Analysis & Monitoring</code> • <code>RF Optimization</code> • <code>INC/CRQ/Problem Management</code> • <code>RCA</code> • <code>RET Config</code> |
 | **Data Analytics & Scripting** | <code>Python</code> • <code>SQL</code> • <code>Pandas</code> • <code>NumPy</code> • <code>Matplotlib</code> • <code>Seaborn</code> • <code>Streamlit</code> |
 | **ITSM & Testing Platforms** | <code>BMC Remedy</code> • <code>ServiceNow</code> • <code>Jira</code> • <code>Wireshark</code> • <code>WinSCP</code> |
-| **Networking & Signaling** | <code>Routing & Switching</code> • <code>CCNA</code> • <code>RRC/NAS</code> • <code>SIP</code> • <code>SCTP</code> • <code>TCP/UDP</code> |
+| **Networking & Signaling** | <code>Routing & Switching</code> • <code>TCP/UDP</code> • <code>CCNA</code> • <code>IPv4/IPv6</code> • <code>RRC/NAS</code> • <code>SIP</code> • <code>SCTP</code> • <code>HSRP</code> • <code>OSPF</code> |
 
 </div>
 
