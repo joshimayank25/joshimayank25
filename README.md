@@ -26,6 +26,9 @@
 
 ### 🛰️ **Network & RF Operations Engineer (MS Optimisation & Performance) | Ericsson Global India Pvt. Ltd.**
 *🗓️ Nov 2023 – Present*
+> Operators: Vodafone UK, EE (BT Group), 3UK, VMO2 | Vendors: Ericsson, Nokia, Huawei
+> Payroll: LanceSoft, INC
+
 
 - Continuously monitored and optimized core cellular KPIs (including LTE Accessibility, E-RAB Drop Rates, VoLTE CSSR/DCR, PRB Utilization, DL/UL Throughput, RSRP/RSRQ/SINR, and HOSR) to safeguard network quality and user experience.
 - Executed 24×7 multi-vendor alarm monitoring, triaging critical/major/minor incidents using **Ericsson ENM**, **Nokia NetAct**, and ITSM systems (**ServiceNow**, **BMC Remedy**, **Jira**).
