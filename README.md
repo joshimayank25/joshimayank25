@@ -25,7 +25,7 @@
 ## 💼 Professional Experience
 
 ### 🛰️ **Network & RF Operations Engineer (MS Optimisation & Performance) | Ericsson Global India Pvt. Ltd.**
-  *🗓️ Nov 2023 – Present*
+*🗓️ Nov 2023 – Present*
 
 - Continuously monitored and optimized core cellular KPIs (including LTE Accessibility, E-RAB Drop Rates, VoLTE CSSR/DCR, PRB Utilization, DL/UL Throughput, RSRP/RSRQ/SINR, and HOSR) to safeguard network quality and user experience.
 - Executed 24×7 multi-vendor alarm monitoring, triaging critical/major/minor incidents using **Ericsson ENM**, **Nokia NetAct**, and ITSM systems (**ServiceNow**, **BMC Remedy**, **Jira**).
@@ -38,7 +38,7 @@
 ## 🏢 Internships & Training
 
 ### 🏢 **Industrial Training Internship | BSNL (Bharat Sanchar Nigam Limited)**
-  *🗓️ July 2022 – Aug 2022*
+*🗓️ July 2022 – Aug 2022*
 
 - Completed industrial training at BSNL, gaining practical exposure in telecom hardware setup & diagnostics.
 - Learned the fundamentals of 2G GSM, 3G UMTS, and 4G LTE networks, with hands-on understanding of BTS operations, and telecom service delivery.
